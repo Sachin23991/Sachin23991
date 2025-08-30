@@ -128,7 +128,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sachin23991&theme=synthwave&hide_border=true&border_radius=15&custom_title=💻%20Weekly%20Coding%20Activity" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
+
 
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="35"> **Coding Activity Heatmap**
