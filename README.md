@@ -264,14 +264,11 @@
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="35"> **Latest Blog Posts & Updates**
 
-<!-- BLOG-POST-LIST:START -->
 - 🚀 Building Scalable Web Applications with Next.js 14
 - 🤖 Machine Learning in Production: Best Practices
 - 🌐 Full Stack Development Roadmap 2025
 - 💡 JavaScript Performance Optimization Techniques
 - 🔥 React Hooks: Advanced Patterns and Use Cases
-<!-- BLOG-POST-LIST:END -->
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="35"> **Random Dev Quote**
