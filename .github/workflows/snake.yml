@@ -9,9 +9,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      - name: Generate snake.svg
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate snake.svg and other files
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Sachin23991
@@ -19,8 +25,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            
-      - name: Push snake.svg to output branch
+
+      - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
