@@ -130,54 +130,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="35"> **Featured Projects**
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin23991&repo=portfolio-website&theme=synthwave&hide_border=true&border_radius=15" />
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin23991&repo=ai-chatbot&theme=synthwave&hide_border=true&border_radius=15" />
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin23991&repo=ecommerce-app&theme=synthwave&hide_border=true&border_radius=15" />
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin23991&repo=blockchain-voting&theme=synthwave&hide_border=true&border_radius=15" />
-</div>
-
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
-
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="35"> **GitHub Contribution Snake**
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="35"> **Coding Activity Heatmap**
 
