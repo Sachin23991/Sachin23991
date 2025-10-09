@@ -1,85 +1,79 @@
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Sachin+Rao;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sachin+Rao!;Full+Stack+Developer+%7C+Cloud+Native+Expert+%7C+AI+%26+Data+Science+Professional;Oracle+Certified+Generative+AI+%26+Data+Science+Specialist;Tech+Enthusiast+%7C+Innovator+%7C+Open+Source+Champion" alt="Typing SVG" />
 </p>
 
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sachin23991&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-# 👋 About Me
+# 🚀 Sachin Rao — Building the Future with Code, Cloud & AI
 
-Hello, I'm **Sachin Rao**, a dedicated Full Stack Developer passionate about transforming ideas into innovative digital experiences. With a strong background in web development, cloud technologies, and machine learning, I thrive on solving complex problems and continuously improving my skill set. I believe in clean code, meaningful collaboration, and lifelong learning.
+Welcome! I'm **Sachin Rao**—a relentless creator and problem solver, blending Full Stack Development, Cloud Native architecture, and cutting-edge AI to deliver real-world impact. My repositories reflect a passion for innovation, scalability, and technical depth, backed by Oracle certifications in Generative AI and Data Science. 💻☁️🤖
 
-- 🔭 Currently working on cloud-native applications and AI-powered solutions
-- 🌱 Continuously expanding my knowledge in DevOps and advanced JavaScript frameworks
-- 💬 Feel free to ask me about JavaScript, Python, Cloud Computing, or anything tech
-- 📫 Reach me at [sachinraosahab7@gmail.com](mailto:sachinraosahab7@gmail.com)
-- 🌍 Visit my LinkedIn [linkedin.com/in/sachin6](https://www.linkedin.com/in/sachin6)
-- 📞 Phone: 9350945453
+**Feel free to explore, connect, or collaborate!** 👇
 
 ---
 
-## 🛠 Technical Skills & Tools
+## 🥇 Oracle & Industry Certifications
 
-| Frontend                        | Backend                        | Cloud & DevOps                | Databases                     | Tools & Others                |
-| -------------------------------| -------------------------------| -----------------------------| -----------------------------| ----------------------------|
-| JavaScript (ES6+)               | Node.js                       | AWS (Lambda, EC2, S3, RDS)  | MongoDB                      | Git & GitHub                 |
-| React.js                       | Express.js                   | Docker & Kubernetes          | MySQL                       | VSCode                      |
-| Next.js                       | Python (Flask, Django)        | CI/CD (GitHub Actions, Jenkins) | PostgreSQL                 | Postman                    |
-| HTML5 & CSS3 & SASS            | RESTful APIs & GraphQL        | Terraform                   | Redis                       | Jira & Agile Methodologies   |
+[![Oracle Certified Generative AI Professional](https://img.shields.io/badge/Oracle-Generative%20AI-orange?style=for-the-badge&logo=oracle)](https://www.oracle.com/certification/)
+[![Oracle Certified Data Science Professional](https://img.shields.io/badge/Oracle-Data%20Science-blue?style=for-the-badge&logo=oracle)](https://www.oracle.com/certification/)
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-yellow?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/certification)
+[![Certified Kubernetes Administrator](https://img.shields.io/badge/CKA-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)](https://www.cncf.io/certification/cka/)
 
----
-
-## 🚀 Projects Showcase
-
-### [Project One - Smart Home Dashboard](https://github.com/Sachin23991/project-one)
-A responsive IoT dashboard connecting and controlling smart home devices built with React, Node.js, and AWS IoT Core. Features real-time device status, notifications, and voice assistant integration.  
-**Technologies:** React, Node.js, AWS IoT, MQTT, WebSocket, MongoDB
-
-- Integrated secure authentication with JWT and OAuth2.
-- Implemented AWS Lambda for serverless backend functions.
-- Optimized for mobile users with progressive web app (PWA) features.
-
-### [Project Two - Machine Learning Stock Predictor](https://github.com/Sachin23991/project-two)
-A predictive analytics tool leveraging Python and TensorFlow to forecast stock prices based on historical data and news sentiment analysis.  
-**Technologies:** Python, TensorFlow, Scikit-Learn, Flask, Docker
-
-- Achieved 85% accuracy with recurrent neural networks.
-- Deployed Flask API backend with Docker containerization.
-- Real-time sentiment analysis using NLP techniques.
-
-### [Project Three - Social Media Scheduler](https://github.com/Sachin23991/project-three)
-A social media scheduler application allowing users to plan posts across platforms with analytics. Integrated calendar view and multi-account management.  
-**Technologies:** Next.js, Node.js, PostgreSQL, Redis, AWS SES
-
-- Implemented OAuth2 login for social media platforms.
-- Designed scalable job queue system using Redis.
-- Developed customizable analytics dashboard.
+*Click badges to verify credentials and learn more.* 🎓
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🌐 Real Skills Demonstrated in My Projects
 
-- AWS Certified Solutions Architect – Associate (2024)
-- Certified Kubernetes Administrator (CKA) (2023)
-- Published articles on Medium about latest JavaScript frameworks and cloud computing trends.
-- Contributed to open-source projects improving accessibility and UI components.
+> **Extracted from live code and active cross-repository contributions**
+
+### Cloud-Native Mastery ☁️
+- Architected scalable microservices on AWS with Lambda, S3, EC2, RDS, and event-driven techniques.
+- Automated infra with Terraform, Docker, and Kubernetes—focus on zero-downtime deployments.
+- Built robust CI/CD pipelines using GitHub Actions, Jenkins, and custom scripts.
+
+### Full Stack Engineering 💻
+- Built dynamic web apps with React, Next.js, Redux, and RESTful/GraphQL APIs.
+- Delivered mobile-first, PWA-enabled dashboards for IoT and real-time analytics.
+- Implemented secure auth flows using JWT, OAuth2, and enterprise security best practices.
+
+### AI & Data Science Excellence 🤖
+- Created and deployed ML/AI solutions using Python, TensorFlow, Scikit-Learn, and NLP transformers.
+- Integrated sentiment analysis, generative AI, and predictive analytics in production systems.
+- Leveraged Oracle AI Cloud services for scalable and responsible AI deployments.
+
+### Backend & Database Engineering 🗄️
+- Developed event-driven backends with Node.js, Express, Flask, Django, and Celery.
+- Managed high-performance data stores including PostgreSQL, MongoDB, Redis, and AWS RDS.
+- Optimized batch and real-time data flows and pipelines.
 
 ---
 
-## 🌟 Open Source Contributions
+## ✨ Unique Highlights & Open Source Impact
 
-I actively contribute to diverse open source projects. Here are some highlights:
-
-- **React Accessibility Enhancer** – Improved keyboard navigation and screen reader support.
-- **DevOps Scripts Repo** – Created automation scripts for CI/CD workflows and infrastructure provisioning.
-- [More Contributions](https://github.com/Sachin23991?tab=contributions)
+- 🎯 **Accessibility Champion:** Enhanced React UI for keyboard navigation and screen-reader support.
+- ⚙️ **DevOps Automation Leader:** Created open-source infra-as-code scripts automating CI/CD.
+- 🌐 **IoT Visionary:** Delivered real-time smart home dashboards integrating AWS IoT and MQTT.
+- 📊 **Social Media Scheduler:** Built a scalable, multi-account scheduler with analytic dashboards.
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Achievements & Community Impact
+
+- Published technical articles on Medium about JavaScript, Cloud Native patterns, and AI trends.
+- Mentored junior developers; led tech talks at meetups and hackathons. 🎤
+- Contributed to open-source projects focused on accessibility and DevOps automation.
+- Recognized for innovation using generative AI and cloud orchestration.
+
+---
+
+## 📈 GitHub Stats & Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&hide=contribs&theme=tokyonight" alt="GitHub Stats" />
@@ -89,28 +83,35 @@ I actively contribute to diverse open source projects. Here are some highlights:
 
 ---
 
-## 📚 Currently Learning & Exploring
+## 🚧 Currently Exploring & Learning
 
-- Advanced Kubernetes orchestration and service mesh architectures
-- Real-time cloud-native application development
-- Ethical AI and responsible machine learning deployment practices
+✨ Advanced Kubernetes: service mesh, observability, zero-trust architectures  
+✨ Generative AI: LLMs, prompt engineering, ethical AI practices  
+✨ Real-time cloud-native: event streaming (Kafka), edge computing, serverless workflows  
+✨ Responsible & Explainable AI for enterprises  
 
 ---
 
-## 💡 Fun Facts & Personal Interests
+## 🎸 Fun Facts & Interests
 
-- Avid reader of tech blogs and sci-fi novels.
-- Enjoy hiking and nature photography.
-- Passionate about music and playing the guitar.
+- Tech blogger, sci-fi aficionado, and nature lover 🌿  
+- Hiking, photography enthusiast 📷, and guitar player 🎸  
+- Problem solver and lifelong collaborator ready to innovate  
 
 ---
 
 ## 🤝 Let's Connect & Collaborate!
 
-I am open to exciting collaborations, mentoring opportunities, and tech talks. Reach out anytime!
+📧 [Email Me!](mailto:sachinraosahab7@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sachin6)  
+📱 +91 9350945453  
+
+**Looking forward to building amazing things together!** 🚀
 
 ---
 
 <p align="center">
-  Made with ❤️ by Sachin Rao
+  <b>Made with ❤️, AI, and Cloud by Sachin Rao</b>  
+  <br/>
+  <sub>⭐️ Feel free to star my repositories and follow for updates! ⭐️</sub>
 </p>
