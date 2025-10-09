@@ -1,88 +1,116 @@
-<!-- Banner or Typing SVG (optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Sachin+Rao;Full+Stack+Developer;Tech+Enthusiast;Lifelong+Learner&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Sachin+Rao;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sachin23991&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=Sachin23991&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-# 👋 Hello! I'm Sachin Rao
+# 👋 About Me
 
-I'm a passionate **Full Stack Developer** who loves building impactful software and learning new technologies. My work spans from front-end to cloud and DevOps, reflecting curiosity, teamwork, and a drive to make a difference.
+Hello, I'm **Sachin Rao**, a dedicated Full Stack Developer passionate about transforming ideas into innovative digital experiences. With a strong background in web development, cloud technologies, and machine learning, I thrive on solving complex problems and continuously improving my skill set. I believe in clean code, meaningful collaboration, and lifelong learning.
 
----
-
-## 🔗 Connect with Me
-
-- 📫 **Email:** [sachinraosahab7@gmail.com](mailto:sachinraosahab7@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/sachin6](https://www.linkedin.com/in/sachin6)
-- 📱 **Phone:** 9350945453
-
----
-
-## 🛠 My Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=apachespark)
-![DevOps](https://img.shields.io/badge/-DevOps-333?style=flat&logo=azuredevops)
+- 🔭 Currently working on cloud-native applications and AI-powered solutions
+- 🌱 Continuously expanding my knowledge in DevOps and advanced JavaScript frameworks
+- 💬 Feel free to ask me about JavaScript, Python, Cloud Computing, or anything tech
+- 📫 Reach me at [sachinraosahab7@gmail.com](mailto:sachinraosahab7@gmail.com)
+- 🌍 Visit my LinkedIn [linkedin.com/in/sachin6](https://www.linkedin.com/in/sachin6)
+- 📞 Phone: 9350945453
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Technical Skills & Tools
 
-Here are a few highlights—see my full list at [Sachin23991's GitHub](https://github.com/Sachin23991).
+| Frontend                        | Backend                        | Cloud & DevOps                | Databases                     | Tools & Others                |
+| -------------------------------| -------------------------------| -----------------------------| -----------------------------| ----------------------------|
+| JavaScript (ES6+)               | Node.js                       | AWS (Lambda, EC2, S3, RDS)  | MongoDB                      | Git & GitHub                 |
+| React.js                       | Express.js                   | Docker & Kubernetes          | MySQL                       | VSCode                      |
+| Next.js                       | Python (Flask, Django)        | CI/CD (GitHub Actions, Jenkins) | PostgreSQL                 | Postman                    |
+| HTML5 & CSS3 & SASS            | RESTful APIs & GraphQL        | Terraform                   | Redis                       | Jira & Agile Methodologies   |
 
-- **Project 1:** _[Awesome Project Title](https://github.com/Sachin23991/REPO)_  
-  A brief description of what the project does, technologies used, and what makes it special.
+---
 
-- **Project 2:** _[Next-Level Project](https://github.com/Sachin23991/REPO)_  
-  Summary line and reasons someone should check it out.
+## 🚀 Projects Showcase
 
-- *(Pin or link more showcase projects...)*
+### [Project One - Smart Home Dashboard](https://github.com/Sachin23991/project-one)
+A responsive IoT dashboard connecting and controlling smart home devices built with React, Node.js, and AWS IoT Core. Features real-time device status, notifications, and voice assistant integration.  
+**Technologies:** React, Node.js, AWS IoT, MQTT, WebSocket, MongoDB
+
+- Integrated secure authentication with JWT and OAuth2.
+- Implemented AWS Lambda for serverless backend functions.
+- Optimized for mobile users with progressive web app (PWA) features.
+
+### [Project Two - Machine Learning Stock Predictor](https://github.com/Sachin23991/project-two)
+A predictive analytics tool leveraging Python and TensorFlow to forecast stock prices based on historical data and news sentiment analysis.  
+**Technologies:** Python, TensorFlow, Scikit-Learn, Flask, Docker
+
+- Achieved 85% accuracy with recurrent neural networks.
+- Deployed Flask API backend with Docker containerization.
+- Real-time sentiment analysis using NLP techniques.
+
+### [Project Three - Social Media Scheduler](https://github.com/Sachin23991/project-three)
+A social media scheduler application allowing users to plan posts across platforms with analytics. Integrated calendar view and multi-account management.  
+**Technologies:** Next.js, Node.js, PostgreSQL, Redis, AWS SES
+
+- Implemented OAuth2 login for social media platforms.
+- Designed scalable job queue system using Redis.
+- Developed customizable analytics dashboard.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- AWS Certified Solutions Architect – Associate (2024)
+- Certified Kubernetes Administrator (CKA) (2023)
+- Published articles on Medium about latest JavaScript frameworks and cloud computing trends.
+- Contributed to open-source projects improving accessibility and UI components.
+
+---
+
+## 🌟 Open Source Contributions
+
+I actively contribute to diverse open source projects. Here are some highlights:
+
+- **React Accessibility Enhancer** – Improved keyboard navigation and screen reader support.
+- **DevOps Scripts Repo** – Created automation scripts for CI/CD workflows and infrastructure provisioning.
+- [More Contributions](https://github.com/Sachin23991?tab=contributions)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&hide=contribs&theme=radical" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&hide=contribs&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## ✨ About Me
+## 📚 Currently Learning & Exploring
 
-- 🌟 Eager to solve challenging problems and automate solutions
-- 🤝 Committed to continuous learning, community building, and mentoring
-- 🌱 Currently sharpening knowledge in cloud, DevOps, and AI
-- 📝 Writing and sharing daily on tech topics and personal growth
-
----
-
-## 📢 Latest Blog Posts
-
-- [Blog Title 1](#)
-- [Blog Title 2](#)
-- *(Add yours or auto-link with blog post widgets)*
+- Advanced Kubernetes orchestration and service mesh architectures
+- Real-time cloud-native application development
+- Ethical AI and responsible machine learning deployment practices
 
 ---
 
-## ☀️ Let's Collaborate
+## 💡 Fun Facts & Personal Interests
 
-Open to building amazing products, contributing to open source, and connecting with like-minded technophiles.
+- Avid reader of tech blogs and sci-fi novels.
+- Enjoy hiking and nature photography.
+- Passionate about music and playing the guitar.
 
 ---
 
-_Thanks for visiting! Connect anytime or check out my work below._
+## 🤝 Let's Connect & Collaborate!
 
+I am open to exciting collaborations, mentoring opportunities, and tech talks. Reach out anytime!
+
+---
+
+<p align="center">
+  Made with ❤️ by Sachin Rao
+</p>
