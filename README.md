@@ -1,165 +1,145 @@
-<!-- ============================================================================== -->
-<!-- INTERACTIVE ANIMATED PROFILE README WITH 2D GRAPHICS -->
-<!-- ============================================================================== -->
-
-<!-- Animated Header with Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sachin+Rao!;Full+Stack+Developer+%7C+Cloud+Native+Expert;AI+%26+Data+Science+Specialist;Building+Tomorrow's+Solutions+Today;&font=Fira%20Code&center=true&width=500&height=50&color=00FF00&vCenter=true&pause=1000&size=22" alt="Typing Animation">
-</p>
-
-<!-- Profile Stats Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sachin23991&style=flat-square&color=00FF00" alt="Profile Views">
-</p>
-
----
-
-<!-- 🎨 ARTISTIC ASCII HEADER WITH ANIMATION -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║    ███████╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗███████╗██████╗ ║
-║    ██╔════╝██╔══██╗██╔════╝██║  ██║██║████╗  ██║██╔════╝██╔══██╗║
-║    ███████╗███████║██║     ███████║██║██╔██╗ ██║███████╗██████╔╝║
-║    ╚════██║██╔══██║██║     ██╔══██║██║██║╚██╗██║╚════██║██╔══██╗║
-║    ███████║██║  ██║╚██████╗██║  ██║██║██║ ╚████║███████║██║  ██║║
-║    ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝║
-║                                                                   ║
-║              🚀 RAO — ARCHITECT OF INNOVATION 🚀                 ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+<!-- ✨ ANIMATED HEADER WITH TYPING EFFECT ✨ -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I'm+Sachin+Rao!;🚀+Full+Stack+Developer+|+Cloud+Native+Expert;🤖+AI+%26+Machine+Learning+Specialist;💡+Building+Innovative+Solutions;📊+Data+Science+Enthusiast&font=Fira+Code&center=true&width=600&height=60&color=00FF00&vCenter=true&pause=1000&size=22" alt="Typing Animation" />
+
+<!-- 📈 REAL-TIME PROFILE STATS -->
+![Profile Views](https://komarev.com/ghpvc/?username=Sachin23991&style=flat-square&color=00FF00)
+![GitHub Stars](https://img.shields.io/github/stars/Sachin23991?style=flat-square&label=Total%20Stars&color=FFD700)
+![GitHub Followers](https://img.shields.io/github/followers/Sachin23991?style=flat-square&label=Followers&color=00FF00)
 
 </div>
 
 ---
 
-## 🎯 **About Me**
-
-<table align="center">
-<tr>
-<td width="50%">
-
-👋 **Welcome!** I'm **Sachin Rao**—a relentless creator and problem solver with expertise in:
-
-- 🌐 **Full Stack Development** (React, Node.js, Django, Next.js)
-- ☁️ **Cloud-Native Architecture** (AWS, Kubernetes, Serverless)
-- 🤖 **AI & Machine Learning** (LLMs, NLP, Generative AI)
-- 📊 **Data Science & Analytics** (Python, ML pipelines)
-- 🔧 **DevOps & Infrastructure** (Docker, Terraform, CI/CD)
-
-</td>
-<td width="50%">
+## 🎨 **About Me**
 
 ```
-     ┌─────────────────────┐
-     │  💻 TECH STACK 💻  │
-     └─────────────────────┘
-     
-     🟦 Languages
-     ├─ Python (Expert)
-     ├─ JavaScript/TypeScript
-     ├─ Java & SQL
-     └─ C++/Go (Learning)
-     
-     🟩 Frameworks
-     ├─ React & Next.js
-     ├─ Django & Flask
-     ├─ Express.js
-     └─ Spring Boot
-     
-     🟪 Cloud & DevOps
-     ├─ AWS (Advanced)
-     ├─ Kubernetes
-     ├─ Docker & Terraform
-     └─ GitHub Actions
+╔══════════════════════════════════════════════════════════════════════════╗
+║                   🌟 SACHIN'S DEVELOPER PROFILE 🌟                       ║
+║                                                                          ║
+║  • Full-Stack Developer | Cloud Architecture | AI/ML Enthusiast          ║
+║  • Building intelligent solutions with Python, JavaScript & cloud tech   ║
+║  • Passionate about competitive programming & system design              ║
+║  • Currently exploring: Advanced LLMs, RAG, and Cloud-Native Apps        ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
+I'm a passionate developer with expertise in **full-stack development**, **machine learning**, and **cloud architecture**. I love building scalable applications, working with cutting-edge AI technologies, and solving complex problems through code.
 
 ---
 
-## 🏆 **Certifications & Achievements**
+## 🛠️ **Tech Stack & Skills**
 
-<p align="center">
+<div align="center">
 
-| 🎓 Certification | 🏅 Issuer | 📅 Status |
-|---|---|---|
-| **Oracle Certified Generative AI Professional** | Oracle | ✅ Verified |
-| **Oracle Certified Data Science Professional** | Oracle | ✅ Verified |
-| **AWS Solutions Architect Associate** | AWS | ✅ Verified |
-| **Certified Kubernetes Administrator (CKA)** | CNCF | 🎯 In Progress |
+### 🔥 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-</p>
+### 🚀 **Frontend Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🔧 **Backend & Cloud**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🤖 **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🎯 **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
-## 💼 **Featured Projects Showcase**
+## 📊 **GitHub Stats & Insights**
+
+<div align="center">
+
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin23991&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&theme=dark&layout=compact&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sachin23991&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 **Featured Projects**
 
 <table>
 <tr>
 <td width="50%">
 
-### 🗞️ **News Dataset Pipeline**
-Automated news scraper fetching from trusted sources, categorizing into tech/finance/education/entertainment/politics, with GitHub Actions workflow integration to Hugging Face datasets.
+### 🎓 CareerFlow
+**AI-Powered Career Guidance Platform**
 
-**Tech Stack:** Python | Scraping | GitHub Actions | Dataset Generation
-⭐ Stars: 1 | Recent commits: 96
+Intelligent system providing personalized career recommendations using machine learning algorithms and LLMs.
 
-</td>
-<td width="50%">
+🔗 [View Repository](https://github.com/Sachin23991)
 
-### 🎨 **DreamFlow RAG Updater**
-RAG pipeline converting Stack Overflow Q&A into structured datasets for LLM training. Automated data collection, validation, and upload to Hugging Face.
-
-**Tech Stack:** Python | LLMs | RAG | Dataset Pipeline
-⭐ Stars: 2 | Recent commits: 50
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎬 **AnimeInformation Platform**
-Complete anime database with 50+ customizable fields, character management, episode tracking, user authentication, advanced search & filtering, and admin dashboard.
-
-**Tech Stack:** Django | Python | SQLite3 | Full-Stack
-⭐ Stars: 2 | Features: CRUD, Search, Auth, Admin Panel
+**Tech:** Python, Flask, TensorFlow, PostgreSQL
 
 </td>
 <td width="50%">
 
-### 🥤 **SIPwise - Health Platform**
-AI-powered health awareness platform featuring interactive quizzes, health chatbot, gamification, leaderboards, and real-time analytics for beverage awareness.
+### 📄 Resume Analyzer
+**Intelligent Resume Analysis Tool**
 
-**Tech Stack:** Node.js | Express | Firebase | AI/ML
-⭐ Stars: 2 | Features: AI Chat, Gamification, Real-time Data
+Analyze and optimize resumes using NLP and AI to improve job match scores and provide actionable feedback.
+
+🔗 [View Repository](https://github.com/Sachin23991)
+
+**Tech:** Python, NLP, Machine Learning, React
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 📊 **Power BI Dashboard**
-Advanced dashboard for UPI transaction analysis in India with regional insights, trend analysis, and interactive visualizations for financial data.
+### 💻 Full-Stack Web Apps
+**Modern Web Applications**
 
-**Tech Stack:** Power BI | Data Analytics | Kaggle Dataset
-⭐ Stars: 1 | Recent Activity: Active Development
+Building scalable, responsive web applications with focus on user experience and performance optimization.
+
+🔗 [View Repository](https://github.com/Sachin23991)
+
+**Tech:** React, Next.js, Node.js, MongoDB
 
 </td>
 <td width="50%">
 
-### 🌐 **CareerFlow Pipeline**
-Automated news scraping for career-related content to train ML models. Hourly updates with NLP processing for CareerFlow AI model.
+### 🧠 ML Model Deployment
+**Production ML Systems**
 
-**Tech Stack:** Python | NLP | GitHub Actions | AI Model Training
-⭐ Stars: 2 | Purpose: Model Training & Development
+Deploying machine learning models to production with proper monitoring, versioning, and scalability.
+
+🔗 [View Repository](https://github.com/Sachin23991)
+
+**Tech:** TensorFlow, Docker, Kubernetes, AWS
 
 </td>
 </tr>
@@ -167,228 +147,73 @@ Automated news scraping for career-related content to train ML models. Hourly up
 
 ---
 
-## 📈 **GitHub Statistics**
+## 🎯 **Current Focus Areas**
 
 <div align="center">
 
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&layout=compact&theme=tokyonight&hide=html,css)
-
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sachin23991&theme=tokyonight)
-
-**📊 2634 Contributions in the Last Year!**
+| Area | Current Work |
+|------|--------------|
+| 🤖 **AI/ML** | Fine-tuning LLMs, RAG systems, Generative AI applications |
+| 🏗️ **System Design** | Cloud-native architectures, microservices, distributed systems |
+| 📊 **Data Science** | Advanced analytics, predictive modeling, feature engineering |
+| 🔐 **Cloud & DevOps** | AWS, Google Cloud, Docker, Kubernetes, CI/CD pipelines |
+| 💡 **Innovation** | Building intelligent solutions that make real-world impact |
 
 </div>
 
 ---
 
-## 🎯 **Core Competencies**
-
-<table align="center">
-<tr>
-<td>
-
-### 🌐 **Frontend Mastery**
-- React.js & Next.js
-- TypeScript & JavaScript
-- Responsive UI/UX Design
-- Redux & State Management
-- CSS3 & Tailwind CSS
-- PWA & Mobile-First
-
-</td>
-<td>
-
-### 🔧 **Backend & Databases**
-- Node.js & Express.js
-- Django & Flask  
-- RESTful APIs & GraphQL
-- PostgreSQL & MongoDB
-- Redis & Caching
-- Microservices Architecture
-
-</td>
-<td>
-
-### ☁️ **Cloud & DevOps**
-- AWS (EC2, S3, Lambda, RDS)
-- Docker & Containerization
-- Kubernetes Orchestration
-- Terraform IaC
-- CI/CD Pipelines
-- Infrastructure Automation
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🤖 **AI & Machine Learning**
-- Python for Data Science
-- TensorFlow & PyTorch
-- NLP & Transformers
-- Generative AI Models
-- LLM Integration
-- Model Deployment
-
-</td>
-<td>
-
-### 📊 **Data Science & Analytics**
-- Pandas & NumPy
-- Data Visualization
-- Statistical Analysis
-- ML Algorithms
-- Feature Engineering
-- Business Analytics
-
-</td>
-<td>
-
-### 🛠️ **Tools & Platforms**
-- Git & GitHub
-- Jenkins & GitHub Actions
-- VS Code & JetBrains IDEs
-- Figma & Design Tools
-- Jupyter Notebooks
-- AWS Console & CLI
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 **Currently Exploring**
-
-<p align="center">
-
-```
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  ✨ Advanced Kubernetes (Service Mesh & Observability)   │
-│  ✨ Generative AI & LLMs (Prompt Engineering, Fine-tuning) │
-│  ✨ Real-time Cloud Systems (Event Streaming, Edge Computing) │
-│  ✨ Responsible & Explainable AI for Enterprises         │
-│  ✨ Advanced System Design & Distributed Systems         │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-</p>
-
----
-
-## 🤝 **Let's Connect & Collaborate!**
+## 📚 **What I'm Learning**
 
 <div align="center">
 
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinraosahab7@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin6)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin23991)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sachin_ydv36/)
-[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.naukri.com/code360/profile/63bc9ae6-9335-4694-ad80-05e339620145)
-
-**📞 Phone:** +91 9350945453
+- 🔬 Advanced Machine Learning & Deep Learning techniques
+- 🌐 Distributed Systems & Cloud Architecture
+- 🤖 LLM Fine-tuning & Prompt Engineering  
+- 📈 Advanced Data Analytics & Business Intelligence
+- 🚀 System Design & Software Architecture
 
 </div>
 
 ---
 
-## 🎯 **Portfolio Highlights**
+## 🌐 **Connect With Me**
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| **GitHub Repositories** | 48+ Active Projects |
-| **Total Stars** | 82+ ⭐ |
-| **Total Contributions** | 2634+ in Last Year |
-| **Followers** | 5+ Community Members |
-| **Achievements** | Pull Shark, YOLO, Quickdraw 🏅 |
-| **Languages** | 5+ Programming Languages |
-| **Frameworks** | 15+ Full Stack Tech Stack |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-rao)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin23991)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
 ---
 
-## 📝 **Fun Facts About Me**
-
-<table align="center">
-<tr>
-<td width="50%">
-
-🌿 **Nature & Adventure**
-- Hiking enthusiast 🏔️
-- Photography lover 📷
-- Nature explorer & conservationist
-
-</td>
-<td width="50%">
-
-🎸 **Creative Pursuits**
-- Guitar player 🎸
-- Tech blogger & writer
-- Sci-fi aficionado 🚀
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 **Learning Philosophy**
+## 💬 **Fun Facts**
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  "Code is not just syntax—it's art, science, and the  │
-│   bridge between imagination and reality."             │
-│                                                         │
-│  → Continuous Learner                                  │
-│  → Problem Solver                                      │
-│  → Innovation Advocate                                 │
-│  → Collaborator & Mentor                               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+🎮 Competitive Programmer - Love solving algorithmic challenges
+⏰ Night Owl Coder - Best ideas come after midnight!
+🎓 Lifelong Learner - Always exploring new technologies
+🌍 Open Source Enthusiast - Contributing to the dev community
+☕ Coffee-Driven Development - Caffeine is my best friend
 ```
 
 ---
 
-<p align="center">
-  <strong>⭐️ If you find value in my work, feel free to star my repositories! ⭐️</strong>
-</p>
+## 📈 **Activity Graph**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Made+with+❤️+by+Sachin+Rao;Building+the+Future+Together+🚀;&font=Fira%20Code&center=true&width=500&height=50&color=00FF00&vCenter=true&pause=1000&size=18" alt="Footer Animation">
-</p>
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sachin23991&theme=react-dark&hide_border=true)
 
 ---
 
-### 🔗 **Recent Activity**
+<div align="center">
 
-```
-📌 Latest Projects:
-   ├─ news-dataset-pipeline (96 commits, January 2026)
-   ├─ dreamflow-rag-updater (50 commits, January 2026)
-   └─ power-bi-Project (Dashboard Development)
+### ⭐ **If you found my work interesting, please star my repositories!** ⭐
 
-🎯 Focus Areas:
-   ├─ AI & Generative Models
-   ├─ Cloud Native Architecture
-   ├─ Data Pipeline Development
-   └─ Full Stack Innovation
-```
+<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200" height="100" alt="Happy Coding" />
 
-<p align="center">
-  <strong>Last Updated: January 3, 2026</strong> | <strong>Profile Views: 1,200+</strong>
-</p>
+**Made with ❤️ by Sachin Rao**
 
----
-
-<!-- HIDDEN EASTER EGG -->
-<!-- Did you make it this far? You're awesome! 🎉 -->
-<!-- Feel free to fork my repos and collaborate with me! -->
+</div>
