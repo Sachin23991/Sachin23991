@@ -1,0 +1,66 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ctaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#33CCFF;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF0099;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF6600;stop-opacity:1" />
+    </linearGradient>
+    <filter id="ctaGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="ctaShadow">
+      <feDropShadow dx="0" dy="6" stdDeviation="4" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  
+  <!-- Background subtle gradient -->
+  <rect width="1200" height="200" fill="#0a0a1a" opacity="0.3"/>
+  
+  <!-- Top decorative line -->
+  <line x1="50" y1="20" x2="1150" y2="20" stroke="url(#ctaGradient)" stroke-width="2" opacity="0.5" filter="url(#ctaGlow)"/>
+  
+  <!-- Main message section -->
+  <g filter="url(#ctaShadow)">
+    <!-- Central gradient box -->
+    <rect x="300" y="50" width="600" height="100" rx="15" fill="url(#ctaGradient)" opacity="0.1" stroke="url(#ctaGradient)" stroke-width="2"/>
+    
+    <!-- Main CTA Text -->
+    <text x="600" y="95" font-size="32" font-weight="bold" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif">
+      Let's Build Something Amazing Together! 🚀
+    </text>
+    
+    <!-- Secondary text -->
+    <text x="600" y="125" font-size="14" text-anchor="middle" fill="#cccccc" font-family="Arial, sans-serif">
+      Explore my projects, collaborate on open source, or let's connect!
+    </text>
+  </g>
+  
+  <!-- Left decorative element -->
+  <g opacity="0.4" filter="url(#ctaGlow)">
+    <circle cx="100" cy="100" r="50" fill="#33CCFF"/>
+    <circle cx="100" cy="100" r="40" fill="#0a0a1a" opacity="0.6"/>
+    <text x="100" y="110" font-size="28" text-anchor="middle" fill="#33CCFF" font-family="Arial, sans-serif">💻</text>
+  </g>
+  
+  <!-- Right decorative element -->
+  <g opacity="0.4" filter="url(#ctaGlow)">
+    <circle cx="1100" cy="100" r="50" fill="#FF0099"/>
+    <circle cx="1100" cy="100" r="40" fill="#0a0a1a" opacity="0.6"/>
+    <text x="1100" y="110" font-size="28" text-anchor="middle" fill="#FF0099" font-family="Arial, sans-serif">🌟</text>
+  </g>
+  
+  <!-- Bottom decorative line -->
+  <line x1="50" y1="180" x2="1150" y2="180" stroke="url(#ctaGradient)" stroke-width="2" opacity="0.5" filter="url(#ctaGlow)"/>
+  
+  <!-- Floating particles/dots for visual interest -->
+  <g opacity="0.6" filter="url(#ctaGlow)">
+    <circle cx="200" cy="50" r="3" fill="#33CCFF"/>
+    <circle cx="1000" cy="60" r="3" fill="#FF0099"/>
+    <circle cx="150" cy="150" r="2" fill="#FF6600"/>
+    <circle cx="1050" cy="140" r="2" fill="#33CCFF"/>
+  </g>
+</svg>
