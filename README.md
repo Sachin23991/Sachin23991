@@ -1,6 +1,28 @@
-<div align="center"><img src="./banner.svg" width="100%" alt="Sachin Rao Animated Banner"><a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=33CCFF¢er=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Python+%7C+JavaScript+%7C+TypeScript;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a><br/><p align="center"> <a href="https://linkedin.com/in/sachin-rao-3a7b8b1a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:sachinraosahab7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://twitter.com/sachinrao_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a></p></div>
+<div align="center">
+<img src="./banner.svg" width="100%" alt="Sachin Rao Animated Banner">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Python+%7C+JavaScript+%7C+TypeScript;Turning+Ideas+Into+Reality" alt="Typing SVG"/>
+</a>
+</div>
 
-<img src="./section-divider.svg" width="100%" alt="Section Divider"/>
+---
+
+<div align="center">
+<h3>📄 CONNECT WITH ME</h3>
+<p>
+<a href="https://www.linkedin.com/in/sachin6/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sachinraosahab7@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="tel:+919350945453">
+<img src="https://img.shields.io/badge/Phone-%2B91%209350945453-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
+</div>
+
+---
 
 ### ⚡ About Me
 
@@ -16,21 +38,51 @@ I am **Sachin Rao**, a passionate developer bridging the gap between **Full-Stac
 
 ### 🛠️ Technical Arsenal
 
-<div align="center"><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java&perline=5" /><br> <br><br> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django&perline=6" /><br> <br><br> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,wandb&perline=5" /><br> <br><br> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,postgres,mongodb,git&perline=7" /></a></div>
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java&perline=5" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django&perline=6" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,wandb&perline=5" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,postgres,mongodb,git&perline=7" />
+</a>
+</div>
 
-<img src="./skills-visualization.svg" width="100%" alt="Skills Visualization"/>
+---
+
+### 🚀 Skills Visualization
+
+<div align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-90%25-blue?style=for-the-badge&logo=python" />
+<br>
+<img src="https://img.shields.io/badge/Full%20Stack%20Dev-95%25-green?style=for-the-badge&logo=react" />
+<br>
+<img src="https://img.shields.io/badge/Data%20Science-80%25-orange?style=for-the-badge&logo=pandas" />
+</div>
 
 ---
 
 ### 📊 Github Analytics
 
-<div align="center"><table> <tr><br> <td width="50%"><br> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><br> </td><br> <td width="50%"><br> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /><br> </td><br> </tr></table><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin23991&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Sachin's Streak" /></div>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</td>
+<td width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</td>
+</tr>
+</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin23991&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Sachin's Streak" />
+</div>
 
-<img src="./section-divider.svg" width="100%" alt="Section Divider"/>
+---
 
 ### 🚀 Featured Projects
-
-<img src="./projects-showcase.svg" width="100%" alt="Featured Projects"/>
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
@@ -73,10 +125,14 @@ I am **Sachin Rao**, a passionate developer bridging the gap between **Full-Stac
 
 ### 🐍 Contribution Graph
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin23991/Sachin23991/output/github-contribution-grid-snake-dark.svg"><br> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin23991/Sachin23991/output/github-contribution-grid-snake.svg"><br> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/output/github-contribution-grid-snake.svg"></picture>
-
-<img src="./footer-cta.svg" width="100%" alt="Footer CTA"/>
+![github contribution grid snake animation](https://raw.githubusercontent.com/Sachin23991/Sachin23991/output/github-contribution-grid-snake.svg)
 
 ---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer"/><br> <br><br> <i>Let's connect and build the future together! 🚀</i><br> <br> <strong>Happy Coding!</strong> ✨ </div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<br>
+<i>Let's connect and build the future together! 🚀</i>
+<br>
+<strong>Happy Coding!</strong> ✨
+</div>
