@@ -1,0 +1,72 @@
+<svg width="1000" height="400" viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skillGradient1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#33CCFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0099FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="skillGradient2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF0099;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF3366;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="skillGradient3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6600;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF9900;stop-opacity:1" />
+    </linearGradient>
+    <filter id="skillGlow">
+      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Title -->
+  <text x="500" y="40" font-size="32" font-weight="bold" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif">
+    SKILL PROFICIENCY
+  </text>
+  
+  <!-- Skill 1: Machine Learning -->
+  <g filter="url(#skillGlow)">
+    <text x="50" y="120" font-size="16" font-weight="bold" fill="#ffffff" font-family="Arial, sans-serif">Machine Learning</text>
+    <!-- Background bar -->
+    <rect x="50" y="135" width="250" height="25" fill="#222222" rx="5"/>
+    <!-- Progress bar -->
+    <rect x="50" y="135" width="225" height="25" fill="url(#skillGradient1)" rx="5"/>
+    <!-- Percentage -->
+    <text x="315" y="152" font-size="14" font-weight="bold" fill="#33CCFF" font-family="Arial, sans-serif">90%</text>
+  </g>
+  
+  <!-- Skill 2: Full Stack Web -->
+  <g filter="url(#skillGlow)">
+    <text x="50" y="200" font-size="16" font-weight="bold" fill="#ffffff" font-family="Arial, sans-serif">Full Stack Development</text>
+    <!-- Background bar -->
+    <rect x="50" y="215" width="250" height="25" fill="#222222" rx="5"/>
+    <!-- Progress bar -->
+    <rect x="50" y="215" width="237" height="25" fill="url(#skillGradient2)" rx="5"/>
+    <!-- Percentage -->
+    <text x="315" y="232" font-size="14" font-weight="bold" fill="#FF0099" font-family="Arial, sans-serif">95%</text>
+  </g>
+  
+  <!-- Skill 3: Data Science -->
+  <g filter="url(#skillGlow)">
+    <text x="50" y="280" font-size="16" font-weight="bold" fill="#ffffff" font-family="Arial, sans-serif">Data Science & Analytics</text>
+    <!-- Background bar -->
+    <rect x="50" y="295" width="250" height="25" fill="#222222" rx="5"/>
+    <!-- Progress bar -->
+    <rect x="50" y="295" width="200" height="25" fill="url(#skillGradient3)" rx="5"/>
+    <!-- Percentage -->
+    <text x="315" y="312" font-size="14" font-weight="bold" fill="#FF6600" font-family="Arial, sans-serif">80%</text>
+  </g>
+  
+  <!-- Right side decorative circles -->
+  <g opacity="0.3" filter="url(#skillGlow)">
+    <circle cx="750" cy="150" r="80" fill="#33CCFF"/>
+    <circle cx="850" cy="250" r="60" fill="#FF0099"/>
+    <circle cx="900" cy="130" r="40" fill="#FF6600"/>
+  </g>
+  
+  <!-- Decorative lines -->
+  <line x1="420" y1="100" x2="950" y2="100" stroke="#33CCFF" stroke-width="2" opacity="0.3"/>
+  <line x1="420" y1="370" x2="950" y2="370" stroke="#FF0099" stroke-width="2" opacity="0.3"/>
+</svg>
