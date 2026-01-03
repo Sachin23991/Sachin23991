@@ -367,84 +367,7 @@ RATING: ⭐⭐⭐⭐⭐ (5/5)
 
 </div>
 
----
-
-<div align="center">
-
-## ⭐ **If you find my work valuable, STAR MY REPOS!** ⭐
-
-```
-╔════════════════════════════════════════╗
-║  Made with ❤️ by Sachin Rao            ║
-║  Building the future, one commit at a time 🚀
-
----
-
-## 🚀 LIVE ANIMATIONS & REAL-TIME STATUS
-
-### ✍️ TYPING EFFECT - Real-Time Coding Status
-
-`> Initializing Developer Profile.`
-
-`> Loading Skills and Experience...`
-
-`> Analyzing Project Portfolio...`
-
-`> Status: READY TO CODE ▏`
-
----
-
-### 💫 DYNAMIC STATUS BADGES (Live Updates)
-
-> 🚀 **ACTIVE DEVELOPER** | Building Scalable Solutions
->
-> 🔗 **OPEN SOURCE** | Contributing & Mentoring  
->
-> 🧰 **AI/ML SPECIALIST** | Training Models & RAG
->
-> ☁️ **CLOUD ARCHITECT** | AWS & Kubernetes Expert
->
-> 💫 **24/7 LEARNING** | Always Improving Skills
-
----
-
-### 📊 REAL-TIME SKILL PROGRESS
-
-**EXPERTISE LEVELS (Updated Daily):**
-
-```
-Python            ████████████████▌  90%
-JavaScript        ███████████████▌  88%
-React             ████████████▌  80%
-TypeScript        ███████████▌  75%
-Cloud Arch        █████████████▌  82%
-ML/AI             ████████████▌  80%
-DevOps            ███████████▌  78%
-System Design     ██████████▌  70%
-```
-
----
-
-### 🌏 STREAMING ACTIVITY VISUALIZATION
-
-**GitHub Activity (Last 24h):**
-
-```
-Commits:  ▓▓▓▓▓▓▓▓▓▓ 12 commits
-Pull Reqs: ▓▓▓▓░░░░░░ 4 PRs
-Reviews:  ▓▓▓▓▓▓░░░░ 6 code reviews  
-Issues:   ▓▓▓▓▓░░░░░ 5 issues resolved
-```
-
----
-
-### ✨ ACHIEVEMENT SHOWCASE
-
-> 🌟 **250+ Projects** ✨ **50+ Contributors** ✨ **1000+ Commits**
->
-> 🌟 **150 Day Streak** ✨ **85%+ Coverage** ✨ **5-Star Quality**
->
-> 🌟 **Open Source Leader** ✨ **Code Mentor** ✨ **Tech Innovator**
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="300" viewBox="0 0 650 300"><defs><style>.pulse{animation:pulse 1.5s infinite}.spin{animation:spin 2s linear infinite}.bounce{animation:bounce 0.6s ease-in-out infinite;transform-origin:50% 0}@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}@keyframes spin{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-15px)}}</style></defs><text x="325" y="25" font-size="20" fill="#00D9FF" text-anchor="middle" font-weight="bold">REAL ANIMATIONS ACTIVE</text><circle cx="80" cy="80" r="20" fill="#FF006E" class="pulse"/><text x="80" y="130" font-size="11" fill="#FFF" text-anchor="middle">Pulsing</text><g transform="translate(230 80)" class="spin"><circle r="25" stroke="#00D9FF" stroke-width="2" fill="none"/><polygon points="0,-25 6,-10 -6,-10" fill="#00D9FF"/></g><text x="230" y="130" font-size="11" fill="#FFF" text-anchor="middle">Spinning</text><circle cx="380" cy="80" r="8" fill="#FFB703" class="bounce"/><circle cx="410" cy="80" r="8" fill="#FFB703" class="bounce" style="animation-delay:0.2s"/><circle cx="440" cy="80" r="8" fill="#FFB703" class="bounce" style="animation-delay:0.4s"/><text x="410" y="130" font-size="11" fill="#FFF" text-anchor="middle">Bouncing</text><rect x="530" y="70" width="90" height="20" fill="#333" rx="5"/><animate attributeName="x" values="530;540;530" dur="2s" repeatCount="indefinite"/><rect x="535" y="75" width="80" height="10" fill="#00D9FF" rx="3"/><animate attributeName="width" values="0;80;0" dur="2s" repeatCount="indefinite"/><text x="575" y="130" font-size="11" fill="#FFF" text-anchor="middle">Moving Bar</text><rect x="20" y="180" width="610" height="30" fill="#1a1a1a" rx="8"/><rect x="20" y="180" width="0" height="30" fill="#00D9FF" rx="8" opacity="0.8"><animate attributeName="width" values="0;610;0" dur="3s" repeatCount="indefinite"/></rect><text x="325" y="205" font-size="13" fill="#FFF" text-anchor="middle" font-weight="bold">LOADING PROGRESS...</text><text x="20" y="260" font-size="12" fill="#00D9FF">Status: Actively Coding</text><text x="20" y="280" font-size="12" fill="#00D9FF">Skills: Updating Real-time</text><text x="20" y="300" font-size="12" fill="#00D9FF">Commits: Streaming Now</text></svg>
 
 ---
 
@@ -463,7 +386,3 @@ Issues:   ▓▓▓▓▓░░░░░ 5 issues resolved
 ♥ **PASSIONATE ABOUT CODE** ♥ 👨‍💻 💪 🚀
 
 </div>
-╚════════════════════════════════════════╝
-
----
-
