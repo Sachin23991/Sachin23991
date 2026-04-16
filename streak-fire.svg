@@ -16,7 +16,7 @@
     </filter>
   </defs>
 
-  <!-- Dark background -->
+  
   <rect width="1200" height="70" fill="#020617" rx="18" ry="18"/>
 
   <!-- Animated gradient bar -->
