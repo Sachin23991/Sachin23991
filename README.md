@@ -13,9 +13,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachin6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sachinraosahab7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Sachin23991"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sachin6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sachinraosahab7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Sachin23991">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
@@ -29,10 +35,10 @@
 
 I build software at the intersection of full stack development, machine learning, and LLM-powered systems.
 
-- Building AI products with strong backend architecture and polished frontend UX
-- Interested in RAG systems, resume intelligence, NLP workflows, and cloud deployment
-- Working with Python, TypeScript, React, FastAPI, TensorFlow, PyTorch, Docker, and AWS
-- Open to meaningful collaborations in AI, ML, SaaS, and developer tooling
+- Building AI products with strong backend architecture and polished frontend UX.
+- Interested in RAG systems, resume intelligence, NLP workflows, and cloud deployment.
+- Working with Python, TypeScript, React, FastAPI, TensorFlow, PyTorch, Docker, and AWS.
+- Open to meaningful collaborations in AI, ML, SaaS, and developer tooling.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/section-divider.svg" alt="Section divider" width="100%" />
@@ -57,16 +63,16 @@ I build software at the intersection of full stack development, machine learning
 </p>
 
 ### CareerFlow AI
-AI-powered career guidance platform with job matching, resume optimization, and career path insights.
+AI-powered platform for career guidance, role matching, resume feedback, and roadmap suggestions.
 
 ### Resume Analyzer
-ATS-focused resume analysis system that extracts skills, scores resumes, and gives actionable suggestions.
+ATS-oriented resume intelligence tool that extracts skills, evaluates impact, and suggests stronger bullet points.
 
 ### News Scraper Pipeline
-Automated data pipeline for scraping, cleaning, and publishing datasets for NLP workflows.
+Automated scraping and data-cleaning pipeline for collecting structured datasets for NLP and analytics use cases.
 
 ### Saathi
-Community-first mental health platform designed for peer support and safe conversations.
+Mental wellness support platform focused on safe conversations, peer connection, and accessible digital support.
 
 ---
 
@@ -82,10 +88,6 @@ Community-first mental health platform designed for peer support and safe conver
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sachin23991&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
@@ -97,19 +99,25 @@ Community-first mental health platform designed for peer support and safe conver
   <img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/growth-roadmap-2025.svg" alt="Growth roadmap" width="100%" />
 </p>
 
-- Advanced RAG systems
-- Distributed cloud architecture
-- LLM fine-tuning
-- DSA and scalable backend systems
+- Advanced RAG systems.
+- Distributed cloud architecture.
+- LLM fine-tuning.
+- DSA and scalable backend systems.
 
 ---
 
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachin6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sachinraosahab7@gmail.com"><img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Sachin23991"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sachin6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sachinraosahab7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Sachin23991">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
