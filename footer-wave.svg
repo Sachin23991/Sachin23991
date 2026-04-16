@@ -1,0 +1,31 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="#020617"/>
+
+  <path d="M0 40 C 150 80, 350 0, 600 40 C 850 80, 1050 0, 1200 40 L 1200 120 L 0 120 Z"
+        fill="url(#waveGrad)" opacity="0.9">
+    <animate attributeName="d"
+             dur="8s"
+             repeatCount="indefinite"
+             values="
+              M0 40 C 150 80, 350 0, 600 40 C 850 80, 1050 0, 1200 40 L 1200 120 L 0 120 Z;
+              M0 50 C 150 20, 350 90, 600 50 C 850 20, 1050 90, 1200 50 L 1200 120 L 0 120 Z;
+              M0 40 C 150 80, 350 0, 600 40 C 850 80, 1050 0, 1200 40 L 1200 120 L 0 120 Z
+             "/>
+  </path>
+
+  <text x="50%" y="88"
+        text-anchor="middle"
+        fill="#e5e7eb"
+        font-size="14"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    Thanks for visiting · Open to collaborations, internships, and full-time roles 🚀
+  </text>
+</svg>
