@@ -1,21 +1,26 @@
 <p align="center">
-  <img src="./banner.svg" alt="Sachin Rao banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/banner.svg" alt="Sachin Rao banner" width="100%" />
 </p>
 
-<h1 align="center">Sachin Rao</h1>
+<h1 align="center">Hi 👋, I'm Sachin Rao</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+LLM-powered+real-world+products;Open+to+collaboration+and+freelance+work" alt="Typing animation" />
+</p>
+
 <p align="center">
   Full Stack Developer • AI/ML Engineer • Building production-ready intelligent products
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachin6/">LinkedIn</a> •
-  <a href="mailto:sachinraosahab7@gmail.com">Email</a> •
-  <a href="https://github.com/Sachin23991">GitHub</a>
+  <a href="https://www.linkedin.com/in/sachin6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sachinraosahab7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Sachin23991"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sachin23991&label=Profile%20Views&color=00bcd4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Sachin23991?style=for-the-badge&color=8b5cf6" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sachin23991&label=Profile%20Views&color=F59E0B&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Sachin23991?style=for-the-badge&color=7C3AED" alt="GitHub followers" />
 </p>
 
 ---
@@ -24,41 +29,23 @@
 
 I build software at the intersection of full stack development, machine learning, and LLM-powered systems.
 
-- Building AI products with strong backend architecture and clean frontend UX
+- Building AI products with strong backend architecture and polished frontend UX
 - Interested in RAG systems, resume intelligence, NLP workflows, and cloud deployment
-- Strong with Python, TypeScript, React, FastAPI, TensorFlow, PyTorch, Docker, and AWS
-- Open to meaningful collaborations in AI, ML, and developer tooling
+- Working with Python, TypeScript, React, FastAPI, TensorFlow, PyTorch, Docker, and AWS
+- Open to meaningful collaborations in AI, ML, SaaS, and developer tooling
 
 <p align="center">
-  <img src="./section-divider.svg" alt="Section divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/section-divider.svg" alt="Section divider" width="100%" />
 </p>
 
 ## Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E11D48?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks & Platforms
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f766e?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1d4ed8?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-DC2626?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-4338CA?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FACC15?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-14532d?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,docker,aws,git,github,firebase,tensorflow,pytorch,opencv,linux,vscode&perline=13" alt="Skill icons" />
+</p>
 
 <p align="center">
-  <img src="./skills-visualization.svg" alt="Skills visualization" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/skills-visualization.svg" alt="Skills visualization" width="100%" />
 </p>
 
 ---
@@ -66,7 +53,7 @@ I build software at the intersection of full stack development, machine learning
 ## Featured Projects
 
 <p align="center">
-  <img src="./projects-showcase.svg" alt="Projects showcase" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/projects-showcase.svg" alt="Projects showcase" width="100%" />
 </p>
 
 ### CareerFlow AI
@@ -83,27 +70,31 @@ Community-first mental health platform designed for peer support and safe conver
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin23991&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin23991&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sachin23991&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 ---
 
-## Currently Learning
+## Current Focus
 
 <p align="center">
-  <img src="./growth-roadmap-2025.svg" alt="Growth roadmap" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/growth-roadmap-2025.svg" alt="Growth roadmap" width="100%" />
 </p>
 
 - Advanced RAG systems
@@ -113,14 +104,14 @@ Community-first mental health platform designed for peer support and safe conver
 
 ---
 
-## Connect
+## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachin6/">LinkedIn</a> •
-  <a href="mailto:sachinraosahab7@gmail.com">Email</a> •
-  <a href="https://github.com/Sachin23991">GitHub</a>
+  <a href="https://www.linkedin.com/in/sachin6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sachinraosahab7@gmail.com"><img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Sachin23991"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="./footer-wave.svg" alt="Footer wave" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/footer-wave.svg" alt="Footer wave" width="100%" />
 </p>
