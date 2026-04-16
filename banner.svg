@@ -1,0 +1,91 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="260" fill="url(#bgGrad)" rx="24" ry="24"/>
+
+  <!-- Moving gradient line -->
+  <rect x="-200" y="40" width="600" height="2" fill="url(#neonGrad)">
+    <animate attributeName="x" from="-200" to="1200" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Accent circles -->
+  <circle cx="80" cy="60" r="4" fill="#22d3ee" opacity="0.9">
+    <animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1120" cy="210" r="5" fill="#a855f7" opacity="0.9">
+    <animate attributeName="r" values="4;7;4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Title -->
+  <text x="80" y="110"
+        fill="white"
+        font-size="34"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+        font-weight="700">
+    🚀 Sachin Rao
+  </text>
+
+  <!-- Subtitle -->
+  <text x="80" y="150"
+        fill="#cbd5f5"
+        font-size="20"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    Full Stack Developer · AI/ML Engineer · LLMs · RAG · Cloud-Native
+  </text>
+
+  <!-- Tech pill -->
+  <rect x="80" y="175" rx="18" ry="18" width="520" height="46"
+        fill="none" stroke="url(#neonGrad)" stroke-width="1.5" filter="url(#glow)"/>
+  <text x="100" y="203"
+        fill="#e5e7eb"
+        font-size="16"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    Python · TypeScript · React · FastAPI · TensorFlow · Docker · AWS
+  </text>
+
+  <!-- Right side label -->
+  <rect x="860" y="70" width="260" height="120" rx="22" ry="22"
+        fill="rgba(15,23,42,0.9)" stroke="#1f2937" stroke-width="1">
+    <animate attributeName="stroke" values="#1f2937;#0ea5e9;#1f2937" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="890" y="115"
+        fill="#bfdbfe"
+        font-size="16"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    Building intelligent, usable
+  </text>
+  <text x="890" y="138"
+        fill="#bfdbfe"
+        font-size="16"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    products from complex AI
+  </text>
+  <text x="890" y="170"
+        fill="#f97316"
+        font-size="14"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    "Code is poetry written in logic."
+  </text>
+</svg>
