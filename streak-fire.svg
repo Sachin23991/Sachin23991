@@ -1,234 +1,67 @@
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="70" viewBox="0 0 1200 70" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0005"/>
-      <stop offset="100%" style="stop-color:#100010"/>
+    <linearGradient id="fireGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff8c00"/>
+      <stop offset="30%" stop-color="#ff2d78"/>
+      <stop offset="60%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#00f5ff"/>
     </linearGradient>
 
-    <!-- Fire flame gradients -->
-    <radialGradient id="coreFlame" cx="50%" cy="80%" r="60%">
-      <stop offset="0%"  style="stop-color:#fff8e0;stop-opacity:1"/>
-      <stop offset="20%" style="stop-color:#ffe066;stop-opacity:1"/>
-      <stop offset="50%" style="stop-color:#ff8c00;stop-opacity:1"/>
-      <stop offset="80%" style="stop-color:#ff2200;stop-opacity:0.9"/>
-      <stop offset="100%" style="stop-color:#cc0000;stop-opacity:0"/>
-    </radialGradient>
-    <radialGradient id="outerFlame" cx="50%" cy="70%" r="60%">
-      <stop offset="0%"  style="stop-color:#ff4400;stop-opacity:0.8"/>
-      <stop offset="60%" style="stop-color:#cc2200;stop-opacity:0.4"/>
-      <stop offset="100%" style="stop-color:#880000;stop-opacity:0"/>
-    </radialGradient>
-    <radialGradient id="blueCore" cx="50%" cy="90%" r="40%">
-      <stop offset="0%"  style="stop-color:#aaddff;stop-opacity:1"/>
-      <stop offset="50%" style="stop-color:#44aaff;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#0066ff;stop-opacity:0"/>
-    </radialGradient>
-
-    <filter id="fireBlur">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
     <filter id="fireGlow">
-      <feGaussianBlur stdDeviation="8"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
-    <filter id="textGlow2">
-      <feGaussianBlur stdDeviation="3" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="sparkGlow">
-      <feGaussianBlur stdDeviation="2" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-
-    <linearGradient id="fireTextGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffe066"/>
-      <stop offset="50%" style="stop-color:#ff6600"/>
-      <stop offset="100%" style="stop-color:#cc2200"/>
-    </linearGradient>
-    <linearGradient id="statGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff8c00"/>
-      <stop offset="100%" style="stop-color:#ff2d78"/>
-    </linearGradient>
-    <mask id="flame-mask">
-      <rect width="900" height="200" fill="white"/>
-    </mask>
   </defs>
 
   <!-- Dark background -->
-  <rect width="900" height="200" fill="url(#bg2)" rx="12"/>
+  <rect width="1200" height="70" fill="#020617" rx="18" ry="18"/>
 
-  <!-- Subtle ember glow on ground -->
-  <ellipse cx="450" cy="190" rx="200" ry="18" fill="#ff4400" opacity="0.12">
-    <animate attributeName="opacity" values="0.08;0.18;0.08" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="rx" values="190;220;190" dur="2s" repeatCount="indefinite"/>
-  </ellipse>
-
-  <!-- ===== LARGE FIRE - CENTER ===== -->
-  <!-- Outer glow bloom -->
-  <ellipse cx="450" cy="130" rx="90" ry="80" fill="#ff3300" opacity="0.12" filter="url(#fireGlow)">
-    <animate attributeName="ry" values="75;90;70;85;75" dur="1.8s" repeatCount="indefinite"/>
-    <animate attributeName="rx" values="85;100;80;95;85" dur="2.2s" repeatCount="indefinite"/>
-  </ellipse>
-
-  <!-- Main outer flame body -->
-  <path fill="url(#outerFlame)" filter="url(#fireBlur)">
-    <animate attributeName="d" dur="0.7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
-      values="
-        M450,170 C400,160 370,120 375,80 C380,50 410,30 430,15 C435,8 445,2 450,0 C455,2 465,8 470,15 C490,30 520,50 525,80 C530,120 500,160 450,170Z;
-        M450,170 C398,158 368,118 374,75 C380,44 412,25 432,12 C437,5 446,0 450,0 C454,0 463,5 468,12 C488,25 520,44 526,75 C532,118 502,158 450,170Z;
-        M450,170 C402,162 372,122 376,82 C381,52 411,32 431,17 C436,10 445,3 450,0 C455,3 464,10 469,17 C489,32 519,52 524,82 C528,122 498,162 450,170Z
-      "/>
-  </path>
-
-  <!-- Core flame -->
-  <path fill="url(#coreFlame)" filter="url(#fireBlur)">
-    <animate attributeName="d" dur="0.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
-      values="
-        M450,168 C420,158 400,130 405,98 C408,75 425,60 440,45 C444,38 448,28 450,20 C452,28 456,38 460,45 C475,60 492,75 495,98 C500,130 480,158 450,168Z;
-        M450,168 C418,156 398,128 403,95 C406,72 424,57 439,43 C443,36 447,26 450,18 C453,26 457,36 461,43 C476,57 494,72 497,95 C502,128 482,156 450,168Z;
-        M450,168 C421,160 401,132 406,100 C409,77 426,62 441,47 C445,40 449,30 450,22 C451,30 455,40 459,47 C474,62 491,77 494,100 C499,132 479,160 450,168Z
-      "/>
-  </path>
-
-  <!-- Blue core base -->
-  <path fill="url(#blueCore)">
-    <animate attributeName="d" dur="0.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
-      values="
-        M450,168 C432,165 418,152 420,138 C422,126 435,118 450,115 C465,118 478,126 480,138 C482,152 468,165 450,168Z;
-        M450,168 C430,164 416,150 418,136 C420,124 434,116 450,113 C466,116 480,124 482,136 C484,150 470,164 450,168Z;
-        M450,168 C433,166 419,153 421,139 C423,127 436,119 450,116 C464,119 477,127 479,139 C481,153 467,166 450,168Z
-      "/>
-  </path>
-
-  <!-- ===== MINI FLAMES LEFT ===== -->
-  <g transform="translate(180, 20)">
-    <path fill="#ff6600" opacity="0.7" filter="url(#fireBlur)">
-      <animate attributeName="d" dur="0.8s" begin="0.1s" repeatCount="indefinite"
-        values="
-          M40,80 C25,70 18,50 22,30 C25,15 35,8 40,0 C45,8 55,15 58,30 C62,50 55,70 40,80Z;
-          M40,80 C23,68 16,48 20,28 C23,13 34,6 40,0 C46,6 57,13 60,28 C64,48 57,68 40,80Z;
-          M40,80 C26,72 19,52 23,32 C26,17 36,9 40,0 C44,9 54,17 57,32 C61,52 54,72 40,80Z
-        "/>
-    </path>
-    <path fill="#ffcc00" opacity="0.8" filter="url(#fireBlur)">
-      <animate attributeName="d" dur="0.65s" begin="0.05s" repeatCount="indefinite"
-        values="
-          M40,78 C29,70 23,54 26,38 C28,26 35,18 40,8 C45,18 52,26 54,38 C57,54 51,70 40,78Z;
-          M40,78 C28,68 22,52 25,36 C27,24 34,16 40,6 C46,16 53,24 55,36 C58,52 52,68 40,78Z;
-          M40,78 C30,71 24,55 27,39 C29,27 36,19 40,9 C44,19 51,27 53,39 C56,55 50,71 40,78Z
-        "/>
-    </path>
-  </g>
-
-  <!-- ===== MINI FLAMES RIGHT ===== -->
-  <g transform="translate(670, 20)">
-    <path fill="#ff6600" opacity="0.7" filter="url(#fireBlur)">
-      <animate attributeName="d" dur="0.75s" begin="0.3s" repeatCount="indefinite"
-        values="
-          M40,80 C25,70 18,50 22,30 C25,15 35,8 40,0 C45,8 55,15 58,30 C62,50 55,70 40,80Z;
-          M40,80 C24,69 17,49 21,29 C24,14 34,7 40,0 C46,7 56,14 59,29 C63,49 56,69 40,80Z;
-          M40,80 C26,71 19,51 23,31 C26,16 36,9 40,0 C44,9 54,16 57,31 C61,51 54,71 40,80Z
-        "/>
-    </path>
-    <path fill="#ffcc00" opacity="0.8" filter="url(#fireBlur)">
-      <animate attributeName="d" dur="0.6s" begin="0.2s" repeatCount="indefinite"
-        values="
-          M40,78 C29,70 23,54 26,38 C28,26 35,18 40,8 C45,18 52,26 54,38 C57,54 51,70 40,78Z;
-          M40,78 C27,67 21,51 24,35 C26,23 33,15 40,5 C47,15 54,23 56,35 C59,51 53,67 40,78Z;
-          M40,78 C30,72 24,56 27,40 C29,28 36,20 40,10 C44,20 51,28 53,40 C56,56 50,72 40,78Z
-        "/>
-    </path>
-  </g>
-
-  <!-- ===== SPARKS ===== -->
-  <g filter="url(#sparkGlow)">
-    <!-- Spark 1 -->
-    <circle cx="430" cy="150" r="2.5" fill="#ffe066">
-      <animateMotion dur="1.2s" begin="0s" repeatCount="indefinite" path="M0,0 C-20,-60 -40,-100 -35,-140"/>
-      <animate attributeName="opacity" values="1;0.8;0" dur="1.2s" begin="0s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.5;1.5;0.5" dur="1.2s" begin="0s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Spark 2 -->
-    <circle cx="450" cy="140" r="2" fill="#ffffff">
-      <animateMotion dur="1s" begin="0.3s" repeatCount="indefinite" path="M0,0 C10,-50 25,-90 20,-130"/>
-      <animate attributeName="opacity" values="1;0.6;0" dur="1s" begin="0.3s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Spark 3 -->
-    <circle cx="470" cy="150" r="3" fill="#ff9900">
-      <animateMotion dur="1.4s" begin="0.6s" repeatCount="indefinite" path="M0,0 C25,-55 45,-95 40,-145"/>
-      <animate attributeName="opacity" values="1;0.7;0" dur="1.4s" begin="0.6s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Spark 4 -->
-    <circle cx="440" cy="155" r="1.5" fill="#ffe066">
-      <animateMotion dur="0.9s" begin="0.9s" repeatCount="indefinite" path="M0,0 C-15,-45 -5,-80 5,-120"/>
-      <animate attributeName="opacity" values="1;0.5;0" dur="0.9s" begin="0.9s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Spark 5 (left side) -->
-    <circle cx="200" cy="80" r="1.5" fill="#ffaa00">
-      <animateMotion dur="1.1s" begin="0.4s" repeatCount="indefinite" path="M0,0 C-10,-35 5,-60 0,-90"/>
-      <animate attributeName="opacity" values="0.9;0.5;0" dur="1.1s" begin="0.4s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Spark 6 (right side) -->
-    <circle cx="700" cy="80" r="1.5" fill="#ffaa00">
-      <animateMotion dur="1.3s" begin="0.7s" repeatCount="indefinite" path="M0,0 C10,-40 -5,-70 0,-100"/>
-      <animate attributeName="opacity" values="0.9;0.5;0" dur="1.3s" begin="0.7s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- ===== STREAK NUMBER & TEXT ===== -->
-  <!-- Label above -->
-  <text x="450" y="50" text-anchor="middle" font-family="'Courier New', monospace"
-        font-size="11" fill="#ff8c00" letter-spacing="5" opacity="0.8">🔥 CURRENT STREAK 🔥</text>
-
-  <!-- Big number -->
-  <text x="450" y="100" text-anchor="middle" font-family="'Courier New', monospace"
-        font-size="52" font-weight="900" fill="url(#fireTextGrad)" filter="url(#textGlow2)">
-    48 DAYS
-    <animate attributeName="opacity" values="0.85;1;0.85" dur="1.5s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Sub-label -->
-  <text x="450" y="122" text-anchor="middle" font-family="'Courier New', monospace"
-        font-size="10" fill="#ff6600" letter-spacing="3" opacity="0.7">CONTRIBUTION STREAK</text>
-
-  <!-- Stats row -->
-  <g font-family="'Courier New', monospace" font-size="12" text-anchor="middle">
-    <!-- Total contributions -->
-    <g transform="translate(160, 155)">
-      <rect x="-60" y="-16" width="120" height="30" rx="5" fill="#ff4400" fill-opacity="0.1" stroke="#ff6600" stroke-width="0.8" stroke-opacity="0.4"/>
-      <text fill="#ffcc00" font-size="18" font-weight="700" y="-1" filter="url(#textGlow2)">2,600+</text>
-      <text fill="#ff8c00" font-size="9" y="12" letter-spacing="1">CONTRIBUTIONS</text>
-    </g>
-    <!-- Repos -->
-    <g transform="translate(450, 155)">
-      <rect x="-55" y="-16" width="110" height="30" rx="5" fill="#ff2200" fill-opacity="0.1" stroke="#ff4400" stroke-width="0.8" stroke-opacity="0.4"/>
-      <text fill="#ffe066" font-size="18" font-weight="700" y="-1" filter="url(#textGlow2)">48 Repos</text>
-      <text fill="#ff8c00" font-size="9" y="12" letter-spacing="1">CREATED</text>
-    </g>
-    <!-- Best streak -->
-    <g transform="translate(740, 155)">
-      <rect x="-55" y="-16" width="110" height="30" rx="5" fill="#cc2200" fill-opacity="0.1" stroke="#ff4400" stroke-width="0.8" stroke-opacity="0.4"/>
-      <text fill="#ffaa00" font-size="18" font-weight="700" y="-1" filter="url(#textGlow2)">48 Days</text>
-      <text fill="#ff8c00" font-size="9" y="12" letter-spacing="1">BEST STREAK</text>
-    </g>
-  </g>
-
-  <!-- Bottom ember particles floating up -->
-  <circle r="1.5" fill="#ff6600" opacity="0.6">
-    <animateMotion dur="3s" repeatCount="indefinite" path="M 300,195 C 290,150 305,100 285,40"/>
-    <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="1" fill="#ffcc00" opacity="0.6">
-    <animateMotion dur="3.5s" begin="1s" repeatCount="indefinite" path="M 600,195 C 615,160 600,110 620,50"/>
-    <animate attributeName="opacity" values="0;0.7;0" dur="3.5s" begin="1s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="1.2" fill="#ff8c00" opacity="0.5">
-    <animateMotion dur="2.8s" begin="1.8s" repeatCount="indefinite" path="M 450,195 C 460,160 445,120 455,60"/>
-    <animate attributeName="opacity" values="0;0.6;0" dur="2.8s" begin="1.8s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Bottom glow bar -->
-  <rect x="0" y="196" width="900" height="4" fill="#ff4400" opacity="0.3" rx="2">
-    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="1.5s" repeatCount="indefinite"/>
+  <!-- Animated gradient bar -->
+  <rect x="-400" y="30" width="500" height="10" fill="url(#fireGrad)" filter="url(#fireGlow)">
+    <animate attributeName="x" from="-400" to="1200" dur="4s" repeatCount="indefinite"/>
   </rect>
+
+  <!-- Flame-like pulses -->
+  <g fill="#ff8c00" opacity="0.75">
+    <path d="M80 50 Q90 20 100 50 T120 50" filter="url(#fireGlow)">
+      <animate attributeName="d"
+               values="M80 50 Q90 20 100 50 T120 50;
+                       M80 50 Q90 10 100 50 T120 50;
+                       M80 50 Q90 20 100 50 T120 50"
+               dur="2.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M300 50 Q310 25 320 50 T340 50" filter="url(#fireGlow)" opacity="0.8">
+      <animate attributeName="d"
+               values="M300 50 Q310 25 320 50 T340 50;
+                       M300 50 Q310 8 320 50 T340 50;
+                       M300 50 Q310 25 320 50 T340 50"
+               dur="2.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M600 50 Q610 18 620 50 T640 50" filter="url(#fireGlow)" opacity="0.9">
+      <animate attributeName="d"
+               values="M600 50 Q610 18 620 50 T640 50;
+                       M600 50 Q610 5 620 50 T640 50;
+                       M600 50 Q610 18 620 50 T640 50"
+               dur="2.9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Label -->
+  <text x="50%" y="26"
+        text-anchor="middle"
+        fill="#e5e7eb"
+        font-size="14"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    🔥 Consistency + Contributions = Momentum
+  </text>
+  <text x="50%" y="46"
+        text-anchor="middle"
+        fill="#9ca3af"
+        font-size="12"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    Streaks are great, but impact and learning matter more.
+  </text>
 </svg>
