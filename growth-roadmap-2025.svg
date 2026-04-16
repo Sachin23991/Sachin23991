@@ -1,0 +1,61 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="roadBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="progressGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="50%" stop-color="#eab308"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="24" ry="24" fill="url(#roadBg)" stroke="#1f2937" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="60" y="70"
+        fill="#e5e7eb"
+        font-size="26"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    🎯 Growth Roadmap · 2025
+  </text>
+  <text x="60" y="100"
+        fill="#9ca3af"
+        font-size="14"
+        font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    Sharpening depth in systems + AI while scaling real‑world products.
+  </text>
+
+  <!-- Roadmap items -->
+  <!-- Each row: label + percentage bar -->
+  <g font-family="Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+     font-size="14" fill="#e5e7eb">
+
+    <!-- Advanced RAG Systems -->
+    <text x="60" y="140">Advanced RAG Systems</text>
+    <text x="360" y="140" fill="#22c55e">80%</text>
+    <rect x="420" y="128" width="600" height="12" rx="6" ry="6" fill="#020617" stroke="#1f2937" stroke-width="1"/>
+    <rect x="420" y="128" width="480" height="12" rx="6" ry="6" fill="url(#progressGrad)">
+      <animate attributeName="width" from="0" to="480" dur="0.9s" fill="freeze"/>
+    </rect>
+
+    <!-- Distributed Architecture -->
+    <text x="60" y="175">Distributed Architecture</text>
+    <text x="360" y="175" fill="#eab308">60%</text>
+    <rect x="420" y="163" width="600" height="12" rx="6" ry="6" fill="#020617" stroke="#1f2937" stroke-width="1"/>
+    <rect x="420" y="163" width="360" height="12" rx="6" ry="6" fill="url(#progressGrad)">
+      <animate attributeName="width" from="0" to="360" dur="1s" fill="freeze"/>
+    </rect>
+
+    <!-- LLM Fine-tuning & PEFT -->
+    <text x="60" y="210">LLM Fine-tuning &amp; PEFT</text>
+    <text x="360" y="210" fill="#22c55e">70%</text>
+    <rect x="420" y="198" width="600" height="12" rx="6" ry="6" fill="#020617" stroke="#1f2937" stroke-width="1"/>
+    <rect x="420" y="198" width="420" height="12" rx="6" ry="6" fill="url(#progressGrad)">
+      <animate attributeName="width" from="0" to="420" dur="1.1s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>
