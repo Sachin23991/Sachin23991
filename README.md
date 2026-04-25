@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin6/)
 [![Gmail](https://img.shields.io/badge/Email-sachinraosahab7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinraosahab7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Sachin23991-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin23991)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sachin__ydv36-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin_ydv36/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sachin_ydv36-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin_ydv36/)
 
 <br/>
 
@@ -66,21 +66,21 @@ available  : Open to collaborate & freelance work ✅
 <div align="center">
 
 ### Languages & Core
-[![Skill Icons](https://skillicons.dev/icons?i=python,cpp,java,js,ts&perline=10)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=python,cpp,java,js,ts&perline=5)](https://skillicons.dev)
 
 ### Frontend
-[![Skill Icons](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=10)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5)](https://skillicons.dev)
 
 ### Backend & APIs
-[![Skill Icons](https://skillicons.dev/icons?i=fastapi,nodejs,express,flask&perline=10)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=fastapi,nodejs,express,flask&perline=5)](https://skillicons.dev)
 
 ### AI / ML / Data
-[![Skill Icons](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=10)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=5)](https://skillicons.dev)
 
 > 🦜 LangChain &nbsp;|&nbsp; 🔗 LlamaIndex &nbsp;|&nbsp; 📊 Pandas &nbsp;|&nbsp; 🔢 NumPy &nbsp;|&nbsp; 📈 Scikit-learn &nbsp;|&nbsp; 🧮 HuggingFace
 
 ### Databases & Cloud
-[![Skill Icons](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis,aws,docker,git&perline=10)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis,aws,docker,git&perline=5)](https://skillicons.dev)
 
 <br/>
 
