@@ -11,7 +11,7 @@
 <br/>
 
 <!-- ═══════════════ ANIMATED TYPING ═══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&random=false&width=800&height=50&lines=🤖+Building+LLM-powered+real-world+products;⚡+Full+Stack+Dev+%2B+AI%2FML+Engineer;🧠+RAG+Systems+%7C+LLM+Fine-tuning+%7C+Cloud+Arch;🚀+Open+to+Collaboration+%26+Freelance;💡+Turning+data+into+intelligent+systems)](https://github.com/Sachin23991)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&random=false&width=800&height=50&lines=🤖+Building+LLM-powered+real-world+products;⚡+Full+Stack+Dev+%2B+AI%2FML+Engineer;🧠+RAG+Systems+%7C+LLM+Fine-tuning+%7C+Cloud+Arch;🚀+Open+to+Collaboration+%26+Freelance;💡+Turning+data+into+intelligent+
 
 <br/>
 
@@ -220,6 +220,122 @@ Safe-space conversations with peer connection features, accessible UI, crisis-aw
 </picture>
 
 > ⚙️ **Setup:** Run the **Generate Snake Animation** GitHub Action once (Actions tab → Run workflow) to generate this. It auto-refreshes every 12 hours.
+
+</div>
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 🎨 NEW ANIMATIONS & STATS WIDGETS -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- 1. GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050b15&title_color=F59E0B&text_color=94A3B8&icon_color=7C3AED&hide=issues" alt="GitHub Stats" width="48%" />
+
+<!-- 2. Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=050b15&title_color=F59E0B&text_color=94A3B8" alt="Top Languages" width="48%" />
+
+<!-- 3. Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin23991&theme=tokyonight&hide_border=true&background=050b15&fire=F59E0B&ring=7C3AED&currStreakNum=F59E0B&sideNums=94A3B8&dates=94A3B8" alt="Streak Stats" width="48%" />
+
+<!-- 4. GitHub Rank Card -->
+<img src="https://github-profile-rank.vercel.app/?username=Sachin23991&theme=tokyonight&hide_border=true&no_frame=true&no_bg=true" alt="GitHub Rank" width="48%" />
+
+<!-- 5. Profile Summary - Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachin23991&theme=tokyonight" alt="Profile Stats Summary" width="48%" />
+
+<!-- 6. Profile Summary - Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/languages-per-repo?username=Sachin23991&theme=tokyonight" alt="Languages Per Repo" width="48%" />
+
+<!-- 7. Profile Summary - Most Committed Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sachin23991&theme=tokyonight" alt="Most Commit Language" width="48%" />
+
+<!-- 8. Profile Summary - Repos Per Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sachin23991&theme=tokyonight" alt="Repos Per Language" width="48%" />
+
+<!-- 9. Profile Summary - Productive Time -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sachin23991&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%" />
+
+<!-- 10. Profile Summary - Followers -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/followers?username=Sachin23991&theme=tokyonight" alt="Followers" width="48%" />
+
+</div>
+
+---
+## 🐱 GitHub Profile Summary Cards
+
+<div align="center">
+
+<!-- 11. Summary - Profile Details -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin23991&theme=tokyonight" alt="Profile Details" width="48%" />
+
+<!-- 12. Summary - GitHub Details -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/github-details?username=Sachin23991&theme=tokyonight" alt="GitHub Details" width="48%" />
+
+</div>
+
+---
+## 📈 More GitHub Analytics
+
+<div align="center">
+
+<!-- 13. Commit Stats Card -->
+<img src="https://gh-chart.loshadki.space/Sachin23991" alt="Commit Stats" width="48%" />
+
+<!-- 14. GitHub Calendar Heatmap -->
+<img src="https://ghchart.rshah.org/Sachin23991" alt="GitHub Calendar" width="100%" />
+
+<!-- 15. Wakatime Stats (Placeholder - connect Wakatime first) -->
+<img src="https://wakatime.com/badge/user/5f8e9a2c-7b3d-4e1a-9f2d-3c4b5a6d7e8f.svg" alt="Wakatime" width="48%" />
+
+<!-- 16. Wakatime Languages Pie Chart (Placeholder) -->
+<img src="https://wakatime.com/share/@Sachin23991/languages.svg" alt="Wakatime Languages" width="48%" />
+
+</div>
+
+---
+## 🎵 Spotify & Coding Vibes
+
+<div align="center">
+
+<!-- 17. Spotify Now Playing (Placeholder - connect Spotify first) -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=sachinraosahab7&redirect=true" alt="Spotify Profile" width="48%" />
+
+<!-- 18. Spotify Recently Played (Placeholder) -->
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=sachinraosahab7&width=400&count=5" alt="Spotify Recently Played" width="48%" />
+
+</div>
+
+---
+## 🎨 Fun & Decorative Animations
+
+<div align="center">
+
+<!-- 19. Animated Hello Banner -->
+<img src="https://komarev.com/ghpvc/?username=Sachin23991&style=flat-square&color=06B6D4" alt="Profile Views Flat" width="100%" />
+
+<!-- 20. Animated Coding GIF -->
+<img src="https://media.giphy.com/media/L1R1TV7qjpSgM/giphy.gif" alt="Coding GIF" width="100%" />
+
+<!-- 21. Animated Terminal GIF -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Terminal GIF" width="100%" />
+
+<!-- 22. Animated Waves GIF -->
+<img src="https://media.giphy.com/media/2t9Cs13r3ZT5nK3aJf/giphy.gif" alt="Waves GIF" width="100%" />
+
+<!-- 23. Animated Rocket GIF -->
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Rocket GIF" width="100%" />
+
+<!-- 24. Animated Code Loop GIF -->
+<img src="https://media.giphy.com/media/MCjH5XJm4dKjK/giphy.gif" alt="Code Loop GIF" width="100%" />
+
+<!-- 25. Animated Matrix Rain GIF -->
+<img src="https://media.giphy.com/media/26tn33ai01UfLM3ew/giphy.gif" alt="Matrix GIF" width="100%" />
+
+<!-- 26. Animated Neural Network GIF -->
+<img src="https://media.giphy.com/media/3o6fJ1BM7R2EBRDnxK/giphy.gif" alt="Neural Network GIF" width="100%" />
 
 </div>
 
