@@ -1,0 +1,101 @@
+<svg viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#050b15"/>
+    </linearGradient>
+    <linearGradient id="wave1Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#7c3aed" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="wave2Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#f59e0b" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b">
+        <animate attributeName="stop-color" values="#f59e0b;#7c3aed;#06b6d4;#f59e0b" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#f59e0b;#7c3aed;#06b6d4" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="starGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes wave1Anim {
+      0%   { d: path("M0 60 C150 30 300 90 450 60 C600 30 750 90 900 60 L900 130 L0 130 Z"); }
+      50%  { d: path("M0 70 C150 100 300 40 450 70 C600 100 750 40 900 70 L900 130 L0 130 Z"); }
+      100% { d: path("M0 60 C150 30 300 90 450 60 C600 30 750 90 900 60 L900 130 L0 130 Z"); }
+    }
+    @keyframes wave2Anim {
+      0%   { d: path("M0 75 C200 45 400 105 600 75 C750 52 850 88 900 80 L900 130 L0 130 Z"); }
+      50%  { d: path("M0 80 C200 110 400 50 600 80 C750 105 850 65 900 70 L900 130 L0 130 Z"); }
+      100% { d: path("M0 75 C200 45 400 105 600 75 C750 52 850 88 900 80 L900 130 L0 130 Z"); }
+    }
+    @keyframes twinkle { 0%,100%{opacity:.2} 50%{opacity:.9} }
+    @keyframes floatStar { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+    @keyframes heartbeat { 0%,100%{transform:scale(1)} 50%{transform:scale(1.25)} }
+    @keyframes dashMove { from{stroke-dashoffset:0} to{stroke-dashoffset:-20} }
+
+    .wave1 { animation: wave1Anim 5s ease-in-out infinite; }
+    .wave2 { animation: wave2Anim 7s ease-in-out infinite 0.5s; }
+    .star1 { animation: twinkle 2.1s ease-in-out infinite; }
+    .star2 { animation: twinkle 3.2s ease-in-out infinite 0.7s; }
+    .star3 { animation: twinkle 2.8s ease-in-out infinite 1.3s; }
+    .star4 { animation: twinkle 1.9s ease-in-out infinite 0.4s; }
+    .star5 { animation: twinkle 4.1s ease-in-out infinite 1s; }
+    .heart { animation: heartbeat 1.4s ease-in-out infinite; transform-origin: 450px 38px; }
+    .topLine { stroke-dasharray:6,4; animation: dashMove 1.2s linear infinite; }
+  </style>
+
+  <!-- Background -->
+  <rect width="900" height="130" fill="url(#waveBg)"/>
+
+  <!-- Top separator line (marching ants) -->
+  <line x1="0" y1="1" x2="900" y2="1" stroke="url(#wave1Grad)" stroke-width="1.5" class="topLine"/>
+
+  <!-- Stars / particles -->
+  <circle cx="90"  cy="28" r="1.5" fill="#f59e0b" filter="url(#starGlow)" class="star1"/>
+  <circle cx="190" cy="18" r="1"   fill="#7c3aed" filter="url(#starGlow)" class="star2"/>
+  <circle cx="310" cy="30" r="1.5" fill="#06b6d4" filter="url(#starGlow)" class="star3"/>
+  <circle cx="420" cy="15" r="1.2" fill="#f59e0b" filter="url(#starGlow)" class="star4"/>
+  <circle cx="510" cy="25" r="1"   fill="#7c3aed" filter="url(#starGlow)" class="star2"/>
+  <circle cx="620" cy="18" r="1.5" fill="#06b6d4" filter="url(#starGlow)" class="star5"/>
+  <circle cx="730" cy="30" r="1.2" fill="#f59e0b" filter="url(#starGlow)" class="star3"/>
+  <circle cx="820" cy="20" r="1"   fill="#7c3aed" filter="url(#starGlow)" class="star1"/>
+
+  <!-- Center text -->
+  <text x="450" y="32" text-anchor="middle" font-size="13"
+        font-family="'Courier New', Courier, monospace" fill="#475569">
+    Made with
+  </text>
+  <text x="450" y="32" text-anchor="middle" font-size="13" font-family="'Courier New', monospace">
+    <tspan fill="#475569">Made with </tspan>
+    <tspan fill="#ef4444" class="heart">❤</tspan>
+    <tspan fill="#475569"> by </tspan>
+    <tspan fill="url(#textGrad)" font-weight="bold">Sachin Rao</tspan>
+    <tspan fill="#475569"> | </tspan>
+    <tspan fill="#22c55e">Open to collabs</tspan>
+    <tspan fill="#475569"> 🚀</tspan>
+  </text>
+
+  <!-- Wave shapes -->
+  <path class="wave1" fill="url(#wave1Grad)"
+        d="M0 60 C150 30 300 90 450 60 C600 30 750 90 900 60 L900 130 L0 130 Z"/>
+  <path class="wave2" fill="url(#wave2Grad)"
+        d="M0 75 C200 45 400 105 600 75 C750 52 850 88 900 80 L900 130 L0 130 Z"/>
+
+  <!-- Bottom bar -->
+  <rect x="0" y="116" width="900" height="14" fill="#050b15"/>
+  <text x="450" y="127" text-anchor="middle" font-size="8"
+        font-family="'Courier New', monospace" fill="#1e293b">
+    ✦ sachin@neural-lab:~ ✦
+  </text>
+</svg>

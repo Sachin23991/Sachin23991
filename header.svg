@@ -1,0 +1,201 @@
+<svg viewBox="0 0 900 290" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Backgrounds -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050b15"/>
+      <stop offset="45%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#060c1a"/>
+    </linearGradient>
+    <!-- Animated title gradient -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b">
+        <animate attributeName="stop-color" values="#f59e0b;#06b6d4;#7c3aed;#f59e0b" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#f59e0b;#06b6d4;#7c3aed" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#7c3aed;#f59e0b;#06b6d4" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <!-- Subtitle gradient -->
+    <linearGradient id="subGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#94a3b8"/>
+      <stop offset="100%" stop-color="#64748b"/>
+    </linearGradient>
+    <!-- Glow filters -->
+    <filter id="bigGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="22" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="titleGlow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="nodeGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Dot grid pattern -->
+    <pattern id="dotGrid" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="0.9" fill="#ffffff" opacity="0.06"/>
+    </pattern>
+    <!-- Scanline pattern -->
+    <pattern id="scanlines" x="0" y="0" width="1" height="4" patternUnits="userSpaceOnUse">
+      <rect width="1" height="1" fill="#000000" opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <style>
+    @keyframes orbPulse1 { 0%,100%{opacity:.28} 50%{opacity:.55} }
+    @keyframes orbPulse2 { 0%,100%{opacity:.2} 50%{opacity:.42} }
+    @keyframes orbPulse3 { 0%,100%{opacity:.22} 50%{opacity:.48} }
+    @keyframes floatUp   { 0%,100%{transform:translateY(0px)} 50%{transform:translateY(-14px)} }
+    @keyframes floatDown { 0%,100%{transform:translateY(0px)} 50%{transform:translateY(12px)} }
+    @keyframes floatSide { 0%,100%{transform:translateX(0px)} 50%{transform:translateX(10px)} }
+    @keyframes blink     { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    @keyframes marqLine  { from{stroke-dashoffset:0} to{stroke-dashoffset:-32} }
+    @keyframes fadeInSub { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:translateY(0)} }
+    @keyframes matrixFall { 0%{transform:translateY(-30px);opacity:0} 10%{opacity:.7} 90%{opacity:.4} 100%{transform:translateY(300px);opacity:0} }
+    @keyframes nodePop   { 0%,100%{r:3.5} 50%{r:5.5} }
+    @keyframes lineFade  { 0%,100%{opacity:.15} 50%{opacity:.45} }
+    @keyframes bracketGlow { 0%,100%{opacity:.4} 50%{opacity:.8} }
+    @keyframes titlePop  { 0%{letter-spacing:2px;opacity:.5} 100%{letter-spacing:8px;opacity:1} }
+    @keyframes statusScroll { from{transform:translateX(0)} to{transform:translateX(-50%)} }
+
+    .orb1 { animation: orbPulse1 4.2s ease-in-out infinite; }
+    .orb2 { animation: orbPulse2 5.5s ease-in-out infinite 1.2s; }
+    .orb3 { animation: orbPulse3 6.1s ease-in-out infinite 0.7s; }
+    .fUp  { animation: floatUp   5s ease-in-out infinite; }
+    .fDn  { animation: floatDown 6.5s ease-in-out infinite 1s; }
+    .fSide{ animation: floatSide 7s ease-in-out infinite 2s; }
+    .blink{ animation: blink 1.1s step-end infinite; }
+    .line-march { stroke-dasharray:6,6; animation: marqLine 1.2s linear infinite; }
+    .bracket { animation: bracketGlow 3s ease-in-out infinite; }
+    .node { animation: nodePop 3s ease-in-out infinite; }
+    .connLine { animation: lineFade 4s ease-in-out infinite; }
+  </style>
+
+  <!-- Base background -->
+  <rect width="900" height="290" fill="url(#bgGrad)"/>
+  <!-- Dot grid -->
+  <rect width="900" height="290" fill="url(#dotGrid)"/>
+  <!-- Scanlines subtle -->
+  <rect width="900" height="290" fill="url(#scanlines)"/>
+
+  <!-- === GLOW ORBS === -->
+  <circle cx="145" cy="145" r="90" fill="#f59e0b" filter="url(#bigGlow)" class="orb1"/>
+  <circle cx="755" cy="145" r="70" fill="#7c3aed" filter="url(#bigGlow)" class="orb2"/>
+  <circle cx="450" cy="250" r="75" fill="#06b6d4" filter="url(#bigGlow)" class="orb3"/>
+
+  <!-- === MATRIX RAIN - LEFT EDGE === -->
+  <g opacity="0.5">
+    <circle cx="18" cy="20" r="1.5" fill="#f59e0b"><animate attributeName="cy" from="-10" to="300" dur="3.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.6;0" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="18" cy="20" r="1.2" fill="#f59e0b"><animate attributeName="cy" from="-10" to="300" dur="3.1s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.5;0" dur="3.1s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="32" cy="20" r="1.3" fill="#06b6d4"><animate attributeName="cy" from="-10" to="300" dur="4.2s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0.5;0" dur="4.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="32" cy="20" r="1" fill="#06b6d4"><animate attributeName="cy" from="-10" to="300" dur="4.2s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.4;0" dur="4.2s" begin="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="10" cy="20" r="1.1" fill="#7c3aed"><animate attributeName="cy" from="-10" to="300" dur="5s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.6;0" dur="5s" begin="0.3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- === MATRIX RAIN - RIGHT EDGE === -->
+  <g opacity="0.5">
+    <circle cx="882" cy="20" r="1.5" fill="#7c3aed"><animate attributeName="cy" from="-10" to="300" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.5;0" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="882" cy="20" r="1.2" fill="#7c3aed"><animate attributeName="cy" from="-10" to="300" dur="3.8s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0.4;0" dur="3.8s" begin="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="868" cy="20" r="1.3" fill="#f59e0b"><animate attributeName="cy" from="-10" to="300" dur="4.5s" begin="1.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.5;0" dur="4.5s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="890" cy="20" r="1" fill="#06b6d4"><animate attributeName="cy" from="-10" to="300" dur="5.2s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.6;0" dur="5.2s" begin="0.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- === NEURAL NETWORK - LEFT === -->
+  <!-- Connection lines -->
+  <line x1="55" y1="45" x2="115" y2="90" stroke="#f59e0b" stroke-width="0.7" class="connLine"><animate attributeName="stroke-dashoffset" from="0" to="60" dur="2s" repeatCount="indefinite"/></line>
+  <line x1="115" y1="90" x2="75" y2="165" stroke="#f59e0b" stroke-width="0.6" class="connLine"><animate attributeName="opacity" values=".1;.4;.1" dur="3s" repeatCount="indefinite"/></line>
+  <line x1="75" y1="165" x2="150" y2="210" stroke="#06b6d4" stroke-width="0.6" class="connLine"/>
+  <line x1="55" y1="45" x2="75" y2="165" stroke="#06b6d4" stroke-width="0.4" opacity="0.2"/>
+  <line x1="115" y1="90" x2="150" y2="210" stroke="#7c3aed" stroke-width="0.4" opacity="0.2">
+    <animate attributeName="opacity" values=".1;.3;.1" dur="5s" repeatCount="indefinite"/>
+  </line>
+  <line x1="40" y1="220" x2="75" y2="165" stroke="#7c3aed" stroke-width="0.5" class="connLine"/>
+  <!-- Nodes -->
+  <circle cx="55" cy="45" r="4" fill="#f59e0b" filter="url(#nodeGlow)" class="node fUp"/>
+  <circle cx="115" cy="90" r="5" fill="#f59e0b" filter="url(#nodeGlow)" class="fDn"><animate attributeName="r" values="4;6.5;4" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="75" cy="165" r="3.5" fill="#06b6d4" filter="url(#nodeGlow)" class="fUp"/>
+  <circle cx="150" cy="210" r="4.5" fill="#06b6d4" filter="url(#nodeGlow)" class="fDn"/>
+  <circle cx="40" cy="220" r="3" fill="#7c3aed" filter="url(#nodeGlow)" class="fSide"/>
+
+  <!-- === NEURAL NETWORK - RIGHT === -->
+  <line x1="845" y1="50" x2="785" y2="95" stroke="#7c3aed" stroke-width="0.7" class="connLine"/>
+  <line x1="785" y1="95" x2="825" y2="170" stroke="#7c3aed" stroke-width="0.6" class="connLine"><animate attributeName="opacity" values=".15;.45;.15" dur="3.5s" repeatCount="indefinite"/></line>
+  <line x1="825" y1="170" x2="755" y2="215" stroke="#f59e0b" stroke-width="0.6" class="connLine"/>
+  <line x1="845" y1="50" x2="825" y2="170" stroke="#f59e0b" stroke-width="0.4" opacity="0.2"/>
+  <line x1="860" y1="225" x2="825" y2="170" stroke="#06b6d4" stroke-width="0.5" class="connLine"/>
+  <!-- Nodes -->
+  <circle cx="845" cy="50" r="4" fill="#7c3aed" filter="url(#nodeGlow)" class="node fUp"/>
+  <circle cx="785" cy="95" r="5.5" fill="#7c3aed" filter="url(#nodeGlow)" class="fDn"><animate attributeName="r" values="4.5;7;4.5" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="825" cy="170" r="3.5" fill="#f59e0b" filter="url(#nodeGlow)" class="fUp"/>
+  <circle cx="755" cy="215" r="4.5" fill="#f59e0b" filter="url(#nodeGlow)" class="fDn"/>
+  <circle cx="860" cy="225" r="3" fill="#06b6d4" filter="url(#nodeGlow)" class="fSide"/>
+
+  <!-- Long cross-connections to center -->
+  <line x1="115" y1="90" x2="350" y2="145" stroke="#f59e0b" stroke-width="0.3" opacity="0.12" stroke-dasharray="4,8"/>
+  <line x1="785" y1="95" x2="550" y2="145" stroke="#7c3aed" stroke-width="0.3" opacity="0.12" stroke-dasharray="4,8"/>
+
+  <!-- === CORNER BRACKETS === -->
+  <!-- TL -->
+  <path d="M 8 8 L 8 48 M 8 8 L 52 8" stroke="#f59e0b" stroke-width="1.8" fill="none" class="bracket"/>
+  <!-- TR -->
+  <path d="M 892 8 L 892 48 M 892 8 L 848 8" stroke="#7c3aed" stroke-width="1.8" fill="none" class="bracket"/>
+  <!-- BL -->
+  <path d="M 8 282 L 8 242 M 8 282 L 52 282" stroke="#06b6d4" stroke-width="1.8" fill="none" class="bracket"/>
+  <!-- BR -->
+  <path d="M 892 282 L 892 242 M 892 282 L 848 282" stroke="#f59e0b" stroke-width="1.8" fill="none" class="bracket"/>
+
+  <!-- === MAIN TITLE === -->
+  <text x="450" y="128"
+        text-anchor="middle"
+        font-size="62"
+        font-weight="900"
+        font-family="'Arial Black', 'Impact', Arial, sans-serif"
+        fill="url(#titleGrad)"
+        filter="url(#titleGlow)"
+        letter-spacing="8">SACHIN RAO</text>
+
+  <!-- === SUBTITLE === -->
+  <text x="450" y="168"
+        text-anchor="middle"
+        font-size="15"
+        font-family="'Courier New', Courier, monospace"
+        fill="#94a3b8"
+        letter-spacing="3"
+        opacity="0">
+    Full Stack Dev  ●  AI/ML Engineer  ●  LLM Architect
+    <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- Animated underline below subtitle -->
+  <line x1="220" y1="178" x2="680" y2="178" stroke="url(#titleGrad)" stroke-width="1" opacity="0.5" class="line-march"/>
+
+  <!-- Floating code labels -->
+  <text x="295" y="218" text-anchor="middle" font-size="12" font-family="'Courier New', monospace" fill="#f59e0b" opacity="0.55" class="fUp">&lt;RAG/&gt;</text>
+  <text x="390" y="225" text-anchor="middle" font-size="11" font-family="'Courier New', monospace" fill="#7c3aed" opacity="0.5" class="fDn">{LLM}</text>
+  <text x="450" y="222" text-anchor="middle" font-size="12" font-family="'Courier New', monospace" fill="#06b6d4" opacity="0.55" class="fSide">⚡FastAPI</text>
+  <text x="515" y="225" text-anchor="middle" font-size="11" font-family="'Courier New', monospace" fill="#f59e0b" opacity="0.5" class="fDn">[NLP]</text>
+  <text x="608" y="218" text-anchor="middle" font-size="12" font-family="'Courier New', monospace" fill="#7c3aed" opacity="0.55" class="fUp">&lt;AI/&gt;</text>
+
+  <!-- === STATUS BAR === -->
+  <rect x="0" y="268" width="900" height="22" fill="#0a0f1e" opacity="0.95"/>
+  <rect x="0" y="268" width="900" height="1" fill="#1e293b"/>
+  <!-- Status dots -->
+  <circle cx="18" cy="279" r="4" fill="#22c55e" filter="url(#nodeGlow)"/>
+  <circle cx="34" cy="279" r="4" fill="#f59e0b"><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="50" cy="279" r="4" fill="#06b6d4"/>
+  <!-- Scrolling status text -->
+  <clipPath id="statusClip"><rect x="64" y="265" width="836" height="28"/></clipPath>
+  <g clip-path="url(#statusClip)">
+    <text y="281" font-size="9.5" font-family="'Courier New', Courier, monospace" fill="#475569">
+      <tspan x="64" class="statusText">sachin@dev:~$ python train_llm.py --model gpt2 --epochs 50 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sachin@dev:~$ docker build -t careerflow-ai . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sachin@dev:~$ uvicorn main:app --reload --port 8000</tspan>
+      <animate attributeName="x" from="64" to="-900" dur="18s" repeatCount="indefinite" additive="sum"/>
+    </text>
+  </g>
+  <!-- Blink cursor -->
+  <rect x="750" y="271" width="6" height="12" fill="#22c55e" class="blink"/>
+</svg>
