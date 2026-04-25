@@ -11,7 +11,7 @@
 <br/>
 
 <!-- ═══════════════ ANIMATED TYPING ═══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&random=flse&width=800&height=50&lines=🤖+Building+LLM-powered+real-world+products;⚡+Full+Stack+Dev+%2B+AI%2FML+Engineer;🧠+RAG+Systems+%7C+LLM+Fine-tuning+%7C+Cloud+Arch;🚀+Open+to+Collaboration+%26+Freelance;💡+Turning+data+into+intelligent+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&random=flse&width=800&height=50&lines=🤖+Building+LLM-powered+real-world+products;⚡+Full+Stack+Dev+%2B+AI%2FML+Engineer;🧠+RAG+Systems+%7C+LLM+Fine-tuning+%7C+Cloud+Arch;🚀+Open+to+Collaboration+%26+Freelance;💡+Turning+data+into+intelligent+systems)
 
 <br/>
 
