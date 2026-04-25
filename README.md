@@ -1,6 +1,6 @@
 <!-- ████████████████████████████████████████████████████████████ -->
-<!--         SACHIN RAO — GITHUB PROFILE README                  -->
-<!--   Replace "Sachin23991" with your username everywhere       -->
+<!-- SACHIN RAO — GITHUB PROFILE README -->
+<!-- Replace "Sachin23991" with your username everywhere -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -11,42 +11,32 @@
 <br/>
 
 <!-- ═══════════════ ANIMATED TYPING ═══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&random=flse&width=800&height=50&lines=🤖+Building+LLM-powered+real-world+products;⚡+Full+Stack+Dev+%2B+AI%2FML+Engineer;🧠+RAG+Systems+%7C+LLM+Fine-tuning+%7C+Cloud+Arch;🚀+Open+to+Collaboration+%26+Freelance;💡+Turning+data+into+intelligent+systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&random=false&width=800&height=50&lines=🤖+Building+LLM-powered+real-world+products;⚡+Full+Stack+Dev+%2B+AI%2FML+Engineer;🧠+RAG+Systems+%7C+LLM+Fine-tuning+%7C+Cloud+Arch;🚀+Open+to+Collaboration+%26+Freelance;💡+Turning+data+into+intelligent+systems)
 
 <br/>
 
 <!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin6/)
-[![Gmail](https://img.shields.io/badge/Email-sachinraosahab7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinraosahab7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sachin23991-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin23991)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sachin_ydv36-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin_ydv36/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin6/) [![Gmail](https://img.shields.io/badge/Email-sachinraosahab7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinraosahab7@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Sachin23991-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin23991) [![LeetCode](https://img.shields.io/badge/LeetCode-sachin_ydv36-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin_ydv36/)
 
 <br/>
 
 <!-- ═══════════════ METRIC BADGES ═══════════════ -->
-![Profile Views](https://komarev.com/ghpvc/?username=Sachin23991&label=Profile+Views&color=F59E0B&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/Sachin23991?style=for-the-badge&color=7C3AED&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/Sachin23991?style=for-the-badge&color=06B6D4&label=Total+Stars)
-![Repos](https://img.shields.io/badge/Repositories-52-22C55E?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Sachin23991&label=Profile+Views&color=F59E0B&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/Sachin23991?style=for-the-badge&color=7C3AED&label=Followers) ![GitHub Stars](https://img.shields.io/github/stars/Sachin23991?style=for-the-badge&color=06B6D4&label=Total+Stars) ![Repos](https://img.shields.io/badge/Repositories-52-22C55E?style=for-the-badge&logo=github)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-##  🧠 About Me
-
-<img align="right" src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/terminal.svg" width="420" alt="Sachin's Terminal"/>
-
+## 🧠 About Me — Sachin's Terminal
 ```yaml
-name       : Sachin Rao
-location   : India 🇮🇳
-role       : Full Stack Dev + AI/ML Engineer
-currently  : Building LLM-powered production products
-learning   : Advanced RAG · LLM Fine-tuning · MLOps
-interests  : NLP · Computer Vision · Cloud Architecture
-fun_fact   : I train models while debugging APIs 🤖⚡
-available  : Open to collaborate & freelance work ✅
+name        : Sachin Rao
+location    : India 🇮🇳
+role        : Full Stack Dev + AI/ML Engineer
+currently   : Building LLM-powered production products
+learning    : Advanced RAG · LLM Fine-tuning · MLOps
+interests   : NLP · Computer Vision · Cloud Architecture
+fun_fact    : I train models while debugging APIs 🤖⚡
+available   : Open to collaborate & freelance work ✅
 ```
 
 **What I actually build:**
@@ -56,14 +46,9 @@ available  : Open to collaborate & freelance work ✅
 - 🌐 **REST APIs** with FastAPI, async patterns, and production-grade design
 - ☁️ **Cloud Deployments** on AWS with Docker & CI/CD
 
-<br clear="right"/>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 ## 🛠 Tech Arsenal
-
-<div align="center">
 
 ### Languages & Core
 [![Skill Icons](https://skillicons.dev/icons?i=python,cpp,java,js,ts&perline=5)](https://skillicons.dev)
@@ -77,105 +62,44 @@ available  : Open to collaborate & freelance work ✅
 ### AI / ML / Data
 [![Skill Icons](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=5)](https://skillicons.dev)
 
-> 🦜 LangChain &nbsp;|&nbsp; 🔗 LlamaIndex &nbsp;|&nbsp; 📊 Pandas &nbsp;|&nbsp; 🔢 NumPy &nbsp;|&nbsp; 📈 Scikit-learn &nbsp;|&nbsp; 🧮 HuggingFace
+> 🦜 LangChain  |  🔗 LlamaIndex  |  📊 Pandas  |  🔢 NumPy  |  📈 Scikit-learn  |  🧮 HuggingFace
 
 ### Databases & Cloud
 [![Skill Icons](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis,aws,docker,git&perline=5)](https://skillicons.dev)
 
-<br/>
+<div align="center">
 
-<!-- Animated Skill Rings -->
-<img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/skills-rings.svg" width="100%" alt="Skill Proficiency Rings"/>
+[![](https://github-profile-skill-circle.vercel.app/api?username=Sachin23991&theme=dark&radius=120&show_icons=true)](https://github.com/marwan1174/github-profile-skill-circle)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 ## 🚀 Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 CareerFlow AI
-> AI-powered career intelligence platform
-
-Personalized career guidance with LLM-driven role matching, resume feedback, learning roadmaps, and skill gap analysis. Built for scale with RAG pipelines.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 Resume Analyzer
-> ATS-aware resume intelligence engine
-
-Extracts structured skills, evaluates bullet point impact, scores ATS compatibility, and suggests high-impact rewrites. NLP-first approach with custom extraction pipelines.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📰 News Scraper Pipeline
-> Production-grade NLP data collection system
-
-Automated multi-source news scraping with deduplication, cleaning, categorization, and structured dataset export — purpose-built for NLP training and analytics.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 💚 Saathi
-> Mental wellness digital support platform
-
-Safe-space conversations with peer connection features, accessible UI, crisis-aware flows, and privacy-first architecture. Mental health tech built with compassion.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
-
-</td>
-</tr>
-</table>
-</div>
+| | |
+|---|---|
+| **### 🤖 CareerFlow AI** > AI-powered career intelligence platform<br>Personalized career guidance with LLM-driven role matching, resume feedback, learning roadmaps, and skill gap analysis. Built for scale with RAG pipelines.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | **### 📄 Resume Analyzer** > ATS-aware resume intelligence engine<br>Extracts structured skills, evaluates bullet point impact, scores ATS compatibility, and suggests high-impact rewrites. NLP-first approach with custom extraction pipelines.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **### 📰 News Scraper Pipeline** > Production-grade NLP data collection system<br>Automated multi-source news scraping with deduplication, cleaning, categorization, and structured dataset export — purpose-built for NLP training and analytics.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) | **### 💚 Saathi** > Mental wellness digital support platform<br>Safe-space conversations with peer connection features, accessible UI, crisis-aware flows, and privacy-first architecture. Mental health tech built with compassion.<br>![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square) |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=050b15&title_color=F59E0B&icon_color=7C3AED&text_color=94A3B8&border_radius=10" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&layout=compact&theme=tokyonight&hide_border=true&bg_color=050b15&title_color=F59E0B&text_color=94A3B8&border_radius=10&langs_count=8" alt="Top Languages"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050b15&title_color=F59E0B&text_color=94A3B8&icon_color=7C3AED&hide=issues)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=050b15&title_color=F59E0B&text_color=94A3B8)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin23991&theme=tokyonight&hide_border=true&background=050b15&ring=F59E0B&fire=7C3AED&currStreakLabel=06B6D4&sideNums=F59E0B&currStreakNum=94A3B8&sideLabels=64748B&dates=475569&border_radius=10" alt="GitHub Streak Stats" width="60%"/>
+<div align="center">
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sachin23991&theme=tokyonight&hide_border=true&background=050b15&fire=F59E0B&ring=7C3AED&currStreakNum=F59E0B&sideNums=94A3B8&dates=94A3B8)](https://github.com/denvercoder1/github-readme-streak-stats)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 ## 🏆 Trophies
 
 <div align="center">
@@ -186,7 +110,6 @@ Safe-space conversations with peer connection features, accessible UI, crisis-aw
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -197,7 +120,6 @@ Safe-space conversations with peer connection features, accessible UI, crisis-aw
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 ## ⚔️ LeetCode Stats
 
 <div align="center">
@@ -208,143 +130,19 @@ Safe-space conversations with peer connection features, accessible UI, crisis-aw
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Sachin23991/Sachin23991/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin23991/Sachin23991/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+![Contribution Snake](https://raw.githubusercontent.com/Sachin23991/Sachin23991/output/github-contribution-grid-snake.svg)
+
+</div>
 
 > ⚙️ **Setup:** Run the **Generate Snake Animation** GitHub Action once (Actions tab → Run workflow) to generate this. It auto-refreshes every 12 hours.
 
-</div>
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 NEW ANIMATIONS & STATS WIDGETS -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- 1. GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sachin23991&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050b15&title_color=F59E0B&text_color=94A3B8&icon_color=7C3AED&hide=issues" alt="GitHub Stats" width="48%" />
-
-<!-- 2. Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin23991&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=050b15&title_color=F59E0B&text_color=94A3B8" alt="Top Languages" width="48%" />
-
-<!-- 3. Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin23991&theme=tokyonight&hide_border=true&background=050b15&fire=F59E0B&ring=7C3AED&currStreakNum=F59E0B&sideNums=94A3B8&dates=94A3B8" alt="Streak Stats" width="48%" />
-
-<!-- 4. GitHub Rank Card -->
-<img src="https://github-profile-rank.vercel.app/?username=Sachin23991&theme=tokyonight&hide_border=true&no_frame=true&no_bg=true" alt="GitHub Rank" width="48%" />
-
-<!-- 5. Profile Summary - Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachin23991&theme=tokyonight" alt="Profile Stats Summary" width="48%" />
-
-<!-- 6. Profile Summary - Languages -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/languages-per-repo?username=Sachin23991&theme=tokyonight" alt="Languages Per Repo" width="48%" />
-
-<!-- 7. Profile Summary - Most Committed Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sachin23991&theme=tokyonight" alt="Most Commit Language" width="48%" />
-
-<!-- 8. Profile Summary - Repos Per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sachin23991&theme=tokyonight" alt="Repos Per Language" width="48%" />
-
-<!-- 9. Profile Summary - Productive Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sachin23991&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%" />
-
-<!-- 10. Profile Summary - Followers -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/followers?username=Sachin23991&theme=tokyonight" alt="Followers" width="48%" />
-
-</div>
-
----
-## 🐱 GitHub Profile Summary Cards
-
-<div align="center">
-
-<!-- 11. Summary - Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin23991&theme=tokyonight" alt="Profile Details" width="48%" />
-
-<!-- 12. Summary - GitHub Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/github-details?username=Sachin23991&theme=tokyonight" alt="GitHub Details" width="48%" />
-
-</div>
-
----
-## 📈 More GitHub Analytics
-
-<div align="center">
-
-<!-- 13. Commit Stats Card -->
-<img src="https://gh-chart.loshadki.space/Sachin23991" alt="Commit Stats" width="48%" />
-
-<!-- 14. GitHub Calendar Heatmap -->
-<img src="https://ghchart.rshah.org/Sachin23991" alt="GitHub Calendar" width="100%" />
-
-<!-- 15. Wakatime Stats (Placeholder - connect Wakatime first) -->
-<img src="https://wakatime.com/badge/user/5f8e9a2c-7b3d-4e1a-9f2d-3c4b5a6d7e8f.svg" alt="Wakatime" width="48%" />
-
-<!-- 16. Wakatime Languages Pie Chart (Placeholder) -->
-<img src="https://wakatime.com/share/@Sachin23991/languages.svg" alt="Wakatime Languages" width="48%" />
-
-</div>
-
----
-## 🎵 Spotify & Coding Vibes
-
-<div align="center">
-
-<!-- 17. Spotify Now Playing (Placeholder - connect Spotify first) -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=sachinraosahab7&redirect=true" alt="Spotify Profile" width="48%" />
-
-<!-- 18. Spotify Recently Played (Placeholder) -->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=sachinraosahab7&width=400&count=5" alt="Spotify Recently Played" width="48%" />
-
-</div>
-
----
-## 🎨 Fun & Decorative Animations
-
-<div align="center">
-
-<!-- 19. Animated Hello Banner -->
-<img src="https://komarev.com/ghpvc/?username=Sachin23991&style=flat-square&color=06B6D4" alt="Profile Views Flat" width="100%" />
-
-<!-- 20. Animated Coding GIF -->
-<img src="https://media.giphy.com/media/L1R1TV7qjpSgM/giphy.gif" alt="Coding GIF" width="100%" />
-
-<!-- 21. Animated Terminal GIF -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Terminal GIF" width="100%" />
-
-<!-- 22. Animated Waves GIF -->
-<img src="https://media.giphy.com/media/2t9Cs13r3ZT5nK3aJf/giphy.gif" alt="Waves GIF" width="100%" />
-
-<!-- 23. Animated Rocket GIF -->
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Rocket GIF" width="100%" />
-
-<!-- 24. Animated Code Loop GIF -->
-<img src="https://media.giphy.com/media/MCjH5XJm4dKjK/giphy.gif" alt="Code Loop GIF" width="100%" />
-
-<!-- 25. Animated Matrix Rain GIF -->
-<img src="https://media.giphy.com/media/26tn33ai01UfLM3ew/giphy.gif" alt="Matrix GIF" width="100%" />
-
-<!-- 26. Animated Neural Network GIF -->
-<img src="https://media.giphy.com/media/3o6fJ1BM7R2EBRDnxK/giphy.gif" alt="Neural Network GIF" width="100%" />
-
-</div>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 ## 🎯 Current Focus — 2025 Roadmap
-
-<div align="center">
 
 | Area | Goal | Status |
 |------|------|--------|
@@ -355,11 +153,8 @@ Safe-space conversations with peer connection features, accessible UI, crisis-aw
 | 🏗️ DSA | LeetCode grinding — patterns & system design | ⚡ Daily |
 | 🌐 Open Source | Contributing to LangChain / HuggingFace ecosystem | 🚀 Planned |
 
-</div>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 ## 💡 Dev Philosophy
 
 <div align="center">
@@ -372,27 +167,21 @@ Safe-space conversations with peer connection features, accessible UI, crisis-aw
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
 ## 🤝 Let's Connect & Collaborate
-
-<div align="center">
 
 I'm always open to interesting conversations, collaborations, and freelance opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's+Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin6/)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop+a+Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinraosahab7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow+%40Sachin23991-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin23991)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Code+Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin_ydv36/)
+<div align="center">
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's+Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin6/) [![Gmail](https://img.shields.io/badge/Gmail-Drop+a+Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinraosahab7@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Follow+%40Sachin23991-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin23991) [![LeetCode](https://img.shields.io/badge/LeetCode-Code+Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachin_ydv36/)
+
+</div>
 
 **Have an idea? Let's build something amazing together 🚀**
 
-<br/>
+<div align="center">
 
 <!-- ═══════════════ FOOTER SVG ═══════════════ -->
 <img src="https://raw.githubusercontent.com/Sachin23991/Sachin23991/main/footer.svg" width="100%" alt="Footer"/>
 
 </div>
-
-<!-- ████████ END OF README ████████ -->
